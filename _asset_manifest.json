@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-07T15:28:10",
+  "generated_at": "2026-06-07T16:03:34",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
-  "asset_count": 388,
-  "total_size": 2206491546,
-  "total_size_mb": 2104.27,
+  "asset_count": 391,
+  "total_size": 2231654631,
+  "total_size_mb": 2128.27,
   "assets": [
     {
       "name": "ai-crystal.jpg",
@@ -862,6 +862,14 @@
       "size_mb": 1.148,
       "sha": "a5a4b1b28cd70f260895ecbfb51a8a707024e266",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_liquid_glass_wi_How_transformers_understa_0583.png"
+    },
+    {
+      "name": "instagram_local_local_first_media_generation_for_daily_ops_0607_153616_5274.png",
+      "path": "instagram_local_local_first_media_generation_for_daily_ops_0607_153616_5274.png",
+      "size": 178009,
+      "size_mb": 0.17,
+      "sha": "9e0eec1c7cfa16bb178dd6dd728c3f0cc5173382",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_local_local_first_media_generation_for_daily_ops_0607_153616_5274.png"
     },
     {
       "name": "instagram_neo_brutalism_w_How_AI_agents_work_fd4b.png",
@@ -3054,6 +3062,22 @@
       "size_mb": 12.188,
       "sha": "9cd4881f33aa9eb0e425cd57d4021465c7810cef",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0607_152756.mp4"
+    },
+    {
+      "name": "video_narrative_0607_160123.mp4",
+      "path": "video_narrative_0607_160123.mp4",
+      "size": 12410941,
+      "size_mb": 11.836,
+      "sha": "24e43446c8818af820c5649bcda0d562fc24f1b9",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0607_160123.mp4"
+    },
+    {
+      "name": "video_narrative_0607_160307.mp4",
+      "path": "video_narrative_0607_160307.mp4",
+      "size": 12574135,
+      "size_mb": 11.992,
+      "sha": "d37ae0e8125de9e3fac373356b46e31769f977f4",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0607_160307.mp4"
     },
     {
       "name": "video_premium_0505_184753.mp4",
