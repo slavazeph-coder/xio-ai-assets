@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T09:01:04",
+  "generated_at": "2026-06-07T15:22:10",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
-  "asset_count": 323,
-  "total_size": 1387973339,
-  "total_size_mb": 1323.67,
+  "asset_count": 387,
+  "total_size": 2193711746,
+  "total_size_mb": 2092.09,
   "assets": [
     {
       "name": "ai-crystal.jpg",
@@ -2534,6 +2534,518 @@
       "size_mb": 12.321,
       "sha": "a092c70a2225bbdaa778622a24c40118aca58efd",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_090048.mp4"
+    },
+    {
+      "name": "video_narrative_0531_233421.mp4",
+      "path": "video_narrative_0531_233421.mp4",
+      "size": 12601561,
+      "size_mb": 12.018,
+      "sha": "b013def5b09638cdce0aa1b0f2091e4d87227d8d",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_233421.mp4"
+    },
+    {
+      "name": "video_narrative_0531_233506.mp4",
+      "path": "video_narrative_0531_233506.mp4",
+      "size": 12626233,
+      "size_mb": 12.041,
+      "sha": "3d7681b81927c0e4edf5ab1d8b2e279eee246a5e",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_233506.mp4"
+    },
+    {
+      "name": "video_narrative_0531_233520.mp4",
+      "path": "video_narrative_0531_233520.mp4",
+      "size": 12583819,
+      "size_mb": 12.001,
+      "sha": "2ca9ce3e40f5b81d2128b739c535441432f75e04",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_233520.mp4"
+    },
+    {
+      "name": "video_narrative_0531_233535.mp4",
+      "path": "video_narrative_0531_233535.mp4",
+      "size": 12515701,
+      "size_mb": 11.936,
+      "sha": "15d544f3ff6e1bc55310f874bf884de2e8c45b73",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_233535.mp4"
+    },
+    {
+      "name": "video_narrative_0531_233548.mp4",
+      "path": "video_narrative_0531_233548.mp4",
+      "size": 12608535,
+      "size_mb": 12.024,
+      "sha": "63d0bebaf10cf642daf180f497f7e91e49ea3c8a",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_233548.mp4"
+    },
+    {
+      "name": "video_narrative_0531_233602.mp4",
+      "path": "video_narrative_0531_233602.mp4",
+      "size": 12531833,
+      "size_mb": 11.951,
+      "sha": "21d73df9609e853e163da2768fdd8648f7137df8",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_233602.mp4"
+    },
+    {
+      "name": "video_narrative_0531_233615.mp4",
+      "path": "video_narrative_0531_233615.mp4",
+      "size": 12722664,
+      "size_mb": 12.133,
+      "sha": "e7b78ac626de2844e1ba008047a2ee3831ba4fe2",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_233615.mp4"
+    },
+    {
+      "name": "video_narrative_0531_233628.mp4",
+      "path": "video_narrative_0531_233628.mp4",
+      "size": 12786617,
+      "size_mb": 12.194,
+      "sha": "9bfbf4a70f42ff5ae6790cf267037221ebcc3b0f",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_233628.mp4"
+    },
+    {
+      "name": "video_narrative_0531_233642.mp4",
+      "path": "video_narrative_0531_233642.mp4",
+      "size": 12644635,
+      "size_mb": 12.059,
+      "sha": "eb5260d26016ca7bd9775d150ab156b21ff9f046",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_233642.mp4"
+    },
+    {
+      "name": "video_narrative_0531_233655.mp4",
+      "path": "video_narrative_0531_233655.mp4",
+      "size": 12634365,
+      "size_mb": 12.049,
+      "sha": "9c824b475290ed147531326ab602eadc7e81c36d",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_233655.mp4"
+    },
+    {
+      "name": "video_narrative_0531_233709.mp4",
+      "path": "video_narrative_0531_233709.mp4",
+      "size": 12600218,
+      "size_mb": 12.017,
+      "sha": "56c99312c0f006f822cbed46f64ab4c9a4f2fdff",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_233709.mp4"
+    },
+    {
+      "name": "video_narrative_0531_233722.mp4",
+      "path": "video_narrative_0531_233722.mp4",
+      "size": 12558808,
+      "size_mb": 11.977,
+      "sha": "fd0df7aa2728c189fce8c9315ae767f00757889a",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_233722.mp4"
+    },
+    {
+      "name": "video_narrative_0531_233736.mp4",
+      "path": "video_narrative_0531_233736.mp4",
+      "size": 12556034,
+      "size_mb": 11.974,
+      "sha": "0ed5920085f411dedea34415fb0b33d446ea46e5",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_233736.mp4"
+    },
+    {
+      "name": "video_narrative_0531_233749.mp4",
+      "path": "video_narrative_0531_233749.mp4",
+      "size": 12511661,
+      "size_mb": 11.932,
+      "sha": "faa084e68f076ebc962528ebcfb932b4b86168c8",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_233749.mp4"
+    },
+    {
+      "name": "video_narrative_0531_233803.mp4",
+      "path": "video_narrative_0531_233803.mp4",
+      "size": 12450937,
+      "size_mb": 11.874,
+      "sha": "061a4a1ba073e4bdd114a0ac4fd208c9d03ed33c",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_233803.mp4"
+    },
+    {
+      "name": "video_narrative_0531_233818.mp4",
+      "path": "video_narrative_0531_233818.mp4",
+      "size": 12291421,
+      "size_mb": 11.722,
+      "sha": "b65009b1c6dc7dd64133c25a0f96ac5dff8e2773",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_233818.mp4"
+    },
+    {
+      "name": "video_narrative_0531_233832.mp4",
+      "path": "video_narrative_0531_233832.mp4",
+      "size": 12522127,
+      "size_mb": 11.942,
+      "sha": "437b663c983c137bfd4a7d67df44b1dd82a80454",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_233832.mp4"
+    },
+    {
+      "name": "video_narrative_0531_233846.mp4",
+      "path": "video_narrative_0531_233846.mp4",
+      "size": 12643600,
+      "size_mb": 12.058,
+      "sha": "3a51d94e80bebe67f82b775db794f1081c2c67af",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_233846.mp4"
+    },
+    {
+      "name": "video_narrative_0531_233900.mp4",
+      "path": "video_narrative_0531_233900.mp4",
+      "size": 12711428,
+      "size_mb": 12.123,
+      "sha": "12464b148838db74bb87c135093796d605c25a45",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_233900.mp4"
+    },
+    {
+      "name": "video_narrative_0531_233913.mp4",
+      "path": "video_narrative_0531_233913.mp4",
+      "size": 12552287,
+      "size_mb": 11.971,
+      "sha": "37928be1776f61215a5069f9a342cc06ab3e59a8",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_233913.mp4"
+    },
+    {
+      "name": "video_narrative_0531_233927.mp4",
+      "path": "video_narrative_0531_233927.mp4",
+      "size": 12678298,
+      "size_mb": 12.091,
+      "sha": "53cab61a771af4d9ab234ddbbfa63000f6962ff0",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_233927.mp4"
+    },
+    {
+      "name": "video_narrative_0531_233941.mp4",
+      "path": "video_narrative_0531_233941.mp4",
+      "size": 12493985,
+      "size_mb": 11.915,
+      "sha": "7f009b0f19acf7dc61ab7c17eec710a126fd560c",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_233941.mp4"
+    },
+    {
+      "name": "video_narrative_0531_233954.mp4",
+      "path": "video_narrative_0531_233954.mp4",
+      "size": 12724435,
+      "size_mb": 12.135,
+      "sha": "01840395e8cca486b7d4f0bf914a967994958702",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_233954.mp4"
+    },
+    {
+      "name": "video_narrative_0531_234008.mp4",
+      "path": "video_narrative_0531_234008.mp4",
+      "size": 12604966,
+      "size_mb": 12.021,
+      "sha": "99b0b93f61fd9205c99c98f662510e74cdbc3e2a",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_234008.mp4"
+    },
+    {
+      "name": "video_narrative_0531_234022.mp4",
+      "path": "video_narrative_0531_234022.mp4",
+      "size": 12443513,
+      "size_mb": 11.867,
+      "sha": "3347e8e1f43683d64886cb300796b91d03c628d7",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_234022.mp4"
+    },
+    {
+      "name": "video_narrative_0531_234036.mp4",
+      "path": "video_narrative_0531_234036.mp4",
+      "size": 12561150,
+      "size_mb": 11.979,
+      "sha": "77bbab519dae89867288d5565d8de51d4d3e1988",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_234036.mp4"
+    },
+    {
+      "name": "video_narrative_0531_234049.mp4",
+      "path": "video_narrative_0531_234049.mp4",
+      "size": 12475315,
+      "size_mb": 11.897,
+      "sha": "c54e0997480c5a86f1b6bb7b4572dd75f931289b",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_234049.mp4"
+    },
+    {
+      "name": "video_narrative_0531_234103.mp4",
+      "path": "video_narrative_0531_234103.mp4",
+      "size": 12616170,
+      "size_mb": 12.032,
+      "sha": "55d51fe3ea63f2fc5606602124c3a5132daad3fa",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_234103.mp4"
+    },
+    {
+      "name": "video_narrative_0531_234119.mp4",
+      "path": "video_narrative_0531_234119.mp4",
+      "size": 12588974,
+      "size_mb": 12.006,
+      "sha": "5e9a2012bdb5c5f755195008e1a76d0dfddb56c6",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_234119.mp4"
+    },
+    {
+      "name": "video_narrative_0531_234133.mp4",
+      "path": "video_narrative_0531_234133.mp4",
+      "size": 12595799,
+      "size_mb": 12.012,
+      "sha": "60732a3cb38c2534c79b29d5e72c9809d83bb6d6",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_234133.mp4"
+    },
+    {
+      "name": "video_narrative_0531_234146.mp4",
+      "path": "video_narrative_0531_234146.mp4",
+      "size": 12569971,
+      "size_mb": 11.988,
+      "sha": "b44a127c2649231b3800d2cd62f7b8da5a16ebd8",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_234146.mp4"
+    },
+    {
+      "name": "video_narrative_0531_234200.mp4",
+      "path": "video_narrative_0531_234200.mp4",
+      "size": 12647917,
+      "size_mb": 12.062,
+      "sha": "da2c744e2cb4a2f8cc5921e91a641584566e4781",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_234200.mp4"
+    },
+    {
+      "name": "video_narrative_0531_234214.mp4",
+      "path": "video_narrative_0531_234214.mp4",
+      "size": 12912120,
+      "size_mb": 12.314,
+      "sha": "40134cd32ea67d0061cac086176a1ec565ffca61",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_234214.mp4"
+    },
+    {
+      "name": "video_narrative_0531_234228.mp4",
+      "path": "video_narrative_0531_234228.mp4",
+      "size": 12695259,
+      "size_mb": 12.107,
+      "sha": "c715d1319bddf023f1a07575ff2370b3ee5b209a",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_234228.mp4"
+    },
+    {
+      "name": "video_narrative_0531_234244.mp4",
+      "path": "video_narrative_0531_234244.mp4",
+      "size": 12559800,
+      "size_mb": 11.978,
+      "sha": "7a7657a6b54cfcbdadbaf15b54af6ece84dc8be2",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_234244.mp4"
+    },
+    {
+      "name": "video_narrative_0531_234258.mp4",
+      "path": "video_narrative_0531_234258.mp4",
+      "size": 12475739,
+      "size_mb": 11.898,
+      "sha": "0b5d31b0273dc43cc730cbe638c2e0f933894c20",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_234258.mp4"
+    },
+    {
+      "name": "video_narrative_0531_234311.mp4",
+      "path": "video_narrative_0531_234311.mp4",
+      "size": 12791984,
+      "size_mb": 12.199,
+      "sha": "6e2a5426dc961c671fcae422020e4ad0694b21a2",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_234311.mp4"
+    },
+    {
+      "name": "video_narrative_0531_234325.mp4",
+      "path": "video_narrative_0531_234325.mp4",
+      "size": 12492406,
+      "size_mb": 11.914,
+      "sha": "60c4e0b2dca8bea5e9de0ed027ac8804cdb4b865",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_234325.mp4"
+    },
+    {
+      "name": "video_narrative_0531_234339.mp4",
+      "path": "video_narrative_0531_234339.mp4",
+      "size": 12565456,
+      "size_mb": 11.983,
+      "sha": "e36a039371c5831e18c28ee268c0db45a94c869f",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_234339.mp4"
+    },
+    {
+      "name": "video_narrative_0531_234352.mp4",
+      "path": "video_narrative_0531_234352.mp4",
+      "size": 12580935,
+      "size_mb": 11.998,
+      "sha": "9b2cad63cb26e9f9bdfa9f89a2ec3061339d98b1",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_234352.mp4"
+    },
+    {
+      "name": "video_narrative_0531_234406.mp4",
+      "path": "video_narrative_0531_234406.mp4",
+      "size": 12671411,
+      "size_mb": 12.084,
+      "sha": "2ee9ba2b480cbc789aa910c8155ab1976b81511c",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_234406.mp4"
+    },
+    {
+      "name": "video_narrative_0531_234420.mp4",
+      "path": "video_narrative_0531_234420.mp4",
+      "size": 12501293,
+      "size_mb": 11.922,
+      "sha": "9d807d0418322436ca27fe6990c0df0dc05e0e23",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_234420.mp4"
+    },
+    {
+      "name": "video_narrative_0531_234434.mp4",
+      "path": "video_narrative_0531_234434.mp4",
+      "size": 12516188,
+      "size_mb": 11.936,
+      "sha": "619dcba331f0d8cdcc6456ba58d658ebe4f77ed6",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_234434.mp4"
+    },
+    {
+      "name": "video_narrative_0531_234447.mp4",
+      "path": "video_narrative_0531_234447.mp4",
+      "size": 12656672,
+      "size_mb": 12.07,
+      "sha": "0e5264f02c1a05a7eb23d45b39d52450b488cf42",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_234447.mp4"
+    },
+    {
+      "name": "video_narrative_0531_234501.mp4",
+      "path": "video_narrative_0531_234501.mp4",
+      "size": 12668687,
+      "size_mb": 12.082,
+      "sha": "ef1acfe3f2f5413d1e7a4141b56fde41b9dcd719",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_234501.mp4"
+    },
+    {
+      "name": "video_narrative_0531_234515.mp4",
+      "path": "video_narrative_0531_234515.mp4",
+      "size": 12522411,
+      "size_mb": 11.942,
+      "sha": "1d6fe6dbc3c1098f21386c739f3934eed7df0f4e",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_234515.mp4"
+    },
+    {
+      "name": "video_narrative_0531_234529.mp4",
+      "path": "video_narrative_0531_234529.mp4",
+      "size": 12534506,
+      "size_mb": 11.954,
+      "sha": "b288a3aebc14e090c75e5347316bababadf3db72",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_234529.mp4"
+    },
+    {
+      "name": "video_narrative_0531_234543.mp4",
+      "path": "video_narrative_0531_234543.mp4",
+      "size": 12505468,
+      "size_mb": 11.926,
+      "sha": "41e43318fb07439d51eb9adfae0114bd967aa210",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_234543.mp4"
+    },
+    {
+      "name": "video_narrative_0531_234557.mp4",
+      "path": "video_narrative_0531_234557.mp4",
+      "size": 12503609,
+      "size_mb": 11.924,
+      "sha": "91f1a51eef61f716146f334da3c5cbe6379cf875",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_234557.mp4"
+    },
+    {
+      "name": "video_narrative_0531_234611.mp4",
+      "path": "video_narrative_0531_234611.mp4",
+      "size": 12610248,
+      "size_mb": 12.026,
+      "sha": "86d1d23e866cecfa56e9c9d62cb5cfdfd3361734",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_234611.mp4"
+    },
+    {
+      "name": "video_narrative_0531_234624.mp4",
+      "path": "video_narrative_0531_234624.mp4",
+      "size": 12623875,
+      "size_mb": 12.039,
+      "sha": "49e2ccfc0a903f965f4047bd5386d972ea19c504",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_234624.mp4"
+    },
+    {
+      "name": "video_narrative_0531_234638.mp4",
+      "path": "video_narrative_0531_234638.mp4",
+      "size": 12501817,
+      "size_mb": 11.923,
+      "sha": "e385d4753b097bd9a04a0279106e8b43fb617405",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_234638.mp4"
+    },
+    {
+      "name": "video_narrative_0531_234651.mp4",
+      "path": "video_narrative_0531_234651.mp4",
+      "size": 12559423,
+      "size_mb": 11.978,
+      "sha": "986c3998a33b00b6f8c8704b3f114f8dc5e69adb",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_234651.mp4"
+    },
+    {
+      "name": "video_narrative_0531_234704.mp4",
+      "path": "video_narrative_0531_234704.mp4",
+      "size": 12562430,
+      "size_mb": 11.98,
+      "sha": "098842b716fe2d247effb5e547ddd0c708acef99",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_234704.mp4"
+    },
+    {
+      "name": "video_narrative_0531_234718.mp4",
+      "path": "video_narrative_0531_234718.mp4",
+      "size": 12508026,
+      "size_mb": 11.929,
+      "sha": "fd30959a9b47c218e2664f02662e61770dcec89f",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_234718.mp4"
+    },
+    {
+      "name": "video_narrative_0531_234733.mp4",
+      "path": "video_narrative_0531_234733.mp4",
+      "size": 12465708,
+      "size_mb": 11.888,
+      "sha": "00d0fe1d7669e7213322f00ac086681092732937",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_234733.mp4"
+    },
+    {
+      "name": "video_narrative_0531_234747.mp4",
+      "path": "video_narrative_0531_234747.mp4",
+      "size": 12634885,
+      "size_mb": 12.05,
+      "sha": "096111bb69d2dae683591a30da8a1357fd5df676",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_234747.mp4"
+    },
+    {
+      "name": "video_narrative_0531_234800.mp4",
+      "path": "video_narrative_0531_234800.mp4",
+      "size": 12685657,
+      "size_mb": 12.098,
+      "sha": "7616d5feb1bd20ceed5aa1ba63ec8eacde200ba9",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_234800.mp4"
+    },
+    {
+      "name": "video_narrative_0531_234814.mp4",
+      "path": "video_narrative_0531_234814.mp4",
+      "size": 12538201,
+      "size_mb": 11.957,
+      "sha": "5e5773473e66e256f0da9956d4264d651390ac5a",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0531_234814.mp4"
+    },
+    {
+      "name": "video_narrative_0601_000207.mp4",
+      "path": "video_narrative_0601_000207.mp4",
+      "size": 12660262,
+      "size_mb": 12.074,
+      "sha": "316d547748b2e5de9a2fced4a2a4b8cfe017390f",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0601_000207.mp4"
+    },
+    {
+      "name": "video_narrative_0601_000229.mp4",
+      "path": "video_narrative_0601_000229.mp4",
+      "size": 12725347,
+      "size_mb": 12.136,
+      "sha": "6972fa8c3e735c9cc15f1356ed6e3aba91fad26c",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0601_000229.mp4"
+    },
+    {
+      "name": "video_narrative_0602_132805.mp4",
+      "path": "video_narrative_0602_132805.mp4",
+      "size": 12572127,
+      "size_mb": 11.99,
+      "sha": "6d6ff202a71daccebc3c5e88e83198af3cb30543",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0602_132805.mp4"
+    },
+    {
+      "name": "video_narrative_0602_132827.mp4",
+      "path": "video_narrative_0602_132827.mp4",
+      "size": 12652885,
+      "size_mb": 12.067,
+      "sha": "fd8766f07b78d9a94fe2605d6266cc4ad63d76cf",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0602_132827.mp4"
+    },
+    {
+      "name": "video_narrative_0607_152146.mp4",
+      "path": "video_narrative_0607_152146.mp4",
+      "size": 12628595,
+      "size_mb": 12.044,
+      "sha": "aed24ba508557423c748a1d338fd814b44a4c839",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0607_152146.mp4"
     },
     {
       "name": "video_premium_0505_184753.mp4",
