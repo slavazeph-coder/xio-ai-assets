@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-07T16:03:34",
+  "generated_at": "2026-06-07T20:07:39",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
-  "asset_count": 391,
-  "total_size": 2231654631,
-  "total_size_mb": 2128.27,
+  "asset_count": 392,
+  "total_size": 2244341787,
+  "total_size_mb": 2140.37,
   "assets": [
     {
       "name": "ai-crystal.jpg",
@@ -3078,6 +3078,14 @@
       "size_mb": 11.992,
       "sha": "d37ae0e8125de9e3fac373356b46e31769f977f4",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0607_160307.mp4"
+    },
+    {
+      "name": "video_narrative_0607_200723.mp4",
+      "path": "video_narrative_0607_200723.mp4",
+      "size": 12687156,
+      "size_mb": 12.099,
+      "sha": "04d661720e1a121ade72e446706bbe8ec789a768",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0607_200723.mp4"
     },
     {
       "name": "video_premium_0505_184753.mp4",
