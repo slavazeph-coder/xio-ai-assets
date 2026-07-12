@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-06-07T20:07:39",
+  "generated_at": "2026-07-11T23:19:23",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
-  "asset_count": 392,
-  "total_size": 2244341787,
-  "total_size_mb": 2140.37,
+  "asset_count": 494,
+  "total_size": 2422963499,
+  "total_size_mb": 2310.72,
   "assets": [
+    {
+      "name": "adoption_0503_1444.png",
+      "path": "adoption_0503_1444.png",
+      "size": 286369,
+      "size_mb": 0.273,
+      "sha": "8f221e1ed91f0008987b20b90fa06c42ae8d37fe",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/adoption_0503_1444.png"
+    },
     {
       "name": "ai-crystal.jpg",
       "path": "ai-crystal.jpg",
@@ -22,6 +30,70 @@
       "size_mb": 0.104,
       "sha": "800140d4eadbd9659de7093c888393ed7a365717",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/ai-sphere.jpg"
+    },
+    {
+      "name": "brand_network_21_0711_161758.png",
+      "path": "brand_network_21_0711_161758.png",
+      "size": 140450,
+      "size_mb": 0.134,
+      "sha": "b8b009bc933223ef27ea2b588ee16d1111ca9ec8",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/brand_network_21_0711_161758.png"
+    },
+    {
+      "name": "brand_network_21_0711_230534.png",
+      "path": "brand_network_21_0711_230534.png",
+      "size": 227824,
+      "size_mb": 0.217,
+      "sha": "0b775884b53056270f521868f59514fe38992b17",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/brand_network_21_0711_230534.png"
+    },
+    {
+      "name": "brand_network_42_0711_161759.png",
+      "path": "brand_network_42_0711_161759.png",
+      "size": 138723,
+      "size_mb": 0.132,
+      "sha": "e2507e572b9ebfef88e0ceac053a2e923c77bc58",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/brand_network_42_0711_161759.png"
+    },
+    {
+      "name": "brand_network_42_0711_230535.png",
+      "path": "brand_network_42_0711_230535.png",
+      "size": 209424,
+      "size_mb": 0.2,
+      "sha": "1a91823f6f94e3ccc91303f61360cab2521b181f",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/brand_network_42_0711_230535.png"
+    },
+    {
+      "name": "brand_network_7_0711_161758.png",
+      "path": "brand_network_7_0711_161758.png",
+      "size": 136885,
+      "size_mb": 0.131,
+      "sha": "0a18adbc7d9af453ad9d18a0a00ebba5c9149269",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/brand_network_7_0711_161758.png"
+    },
+    {
+      "name": "brand_network_7_0711_230534.png",
+      "path": "brand_network_7_0711_230534.png",
+      "size": 218100,
+      "size_mb": 0.208,
+      "sha": "c8231920e19f135e4d17a7cdfcdf02da6f9f2bab",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/brand_network_7_0711_230534.png"
+    },
+    {
+      "name": "brand_network_99_0711_161759.png",
+      "path": "brand_network_99_0711_161759.png",
+      "size": 133607,
+      "size_mb": 0.127,
+      "sha": "306d44f11f08a9bc0022f5a704be9d9aa99cf2d8",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/brand_network_99_0711_161759.png"
+    },
+    {
+      "name": "brand_network_99_0711_230535.png",
+      "path": "brand_network_99_0711_230535.png",
+      "size": 213903,
+      "size_mb": 0.204,
+      "sha": "fed4e75988434d0c01e8945ecb04e009aa8172d0",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/brand_network_99_0711_230535.png"
     },
     {
       "name": "carousel_cover_0503_1634.png",
@@ -168,6 +240,38 @@
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/carousel_cover_0505_2039.png"
     },
     {
+      "name": "carousel_cover_0711_1617.png",
+      "path": "carousel_cover_0711_1617.png",
+      "size": 1595938,
+      "size_mb": 1.522,
+      "sha": "2a9da1b83b56e44dd5908aa6433b54bd4e71aeb1",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/carousel_cover_0711_1617.png"
+    },
+    {
+      "name": "carousel_cover_0711_230513_3bd1.png",
+      "path": "carousel_cover_0711_230513_3bd1.png",
+      "size": 1617877,
+      "size_mb": 1.543,
+      "sha": "1ec928c6bd7b951946b8c08c510079107418ef24",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/carousel_cover_0711_230513_3bd1.png"
+    },
+    {
+      "name": "carousel_cover_0711_230522_bf49.png",
+      "path": "carousel_cover_0711_230522_bf49.png",
+      "size": 2036887,
+      "size_mb": 1.943,
+      "sha": "66e21b73058d3c4d75e2045f307f227783ce28c9",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/carousel_cover_0711_230522_bf49.png"
+    },
+    {
+      "name": "carousel_cover_0711_230532_d3e2.png",
+      "path": "carousel_cover_0711_230532_d3e2.png",
+      "size": 1595938,
+      "size_mb": 1.522,
+      "sha": "2a9da1b83b56e44dd5908aa6433b54bd4e71aeb1",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/carousel_cover_0711_230532_d3e2.png"
+    },
+    {
       "name": "carousel_cta_6_0504_1206.png",
       "path": "carousel_cta_6_0504_1206.png",
       "size": 2122984,
@@ -278,6 +382,38 @@
       "size_mb": 1.848,
       "sha": "42187d0d15f34e417756da63c88813045402c424",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/carousel_cta_6_0505_2039.png"
+    },
+    {
+      "name": "carousel_cta_6_0711_1617.png",
+      "path": "carousel_cta_6_0711_1617.png",
+      "size": 1407433,
+      "size_mb": 1.342,
+      "sha": "f8d677cde7f280b3a5ae898642258bf7ca1d98fd",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/carousel_cta_6_0711_1617.png"
+    },
+    {
+      "name": "carousel_cta_6_0711_230514_9913.png",
+      "path": "carousel_cta_6_0711_230514_9913.png",
+      "size": 1440149,
+      "size_mb": 1.373,
+      "sha": "472e7619e39aeb6048d16c7e2aadff6673151a8d",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/carousel_cta_6_0711_230514_9913.png"
+    },
+    {
+      "name": "carousel_cta_6_0711_230524_2d8c.png",
+      "path": "carousel_cta_6_0711_230524_2d8c.png",
+      "size": 1854783,
+      "size_mb": 1.769,
+      "sha": "cbb94b839caf7dae289907a6015209106c7296d1",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/carousel_cta_6_0711_230524_2d8c.png"
+    },
+    {
+      "name": "carousel_cta_6_0711_230533_6435.png",
+      "path": "carousel_cta_6_0711_230533_6435.png",
+      "size": 1407433,
+      "size_mb": 1.342,
+      "sha": "f8d677cde7f280b3a5ae898642258bf7ca1d98fd",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/carousel_cta_6_0711_230533_6435.png"
     },
     {
       "name": "carousel_list_4_0503_1634.png",
@@ -416,6 +552,38 @@
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/carousel_list_4_0505_2039.png"
     },
     {
+      "name": "carousel_list_4_0711_1617.png",
+      "path": "carousel_list_4_0711_1617.png",
+      "size": 1245419,
+      "size_mb": 1.188,
+      "sha": "5af0bd21b8dc0f8537ab362ee05ec3167b421906",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/carousel_list_4_0711_1617.png"
+    },
+    {
+      "name": "carousel_list_4_0711_230514_665a.png",
+      "path": "carousel_list_4_0711_230514_665a.png",
+      "size": 1280399,
+      "size_mb": 1.221,
+      "sha": "1ca68d60d2059f5818230e4371df0cf6ed2c02d7",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/carousel_list_4_0711_230514_665a.png"
+    },
+    {
+      "name": "carousel_list_4_0711_230523_b695.png",
+      "path": "carousel_list_4_0711_230523_b695.png",
+      "size": 1717347,
+      "size_mb": 1.638,
+      "sha": "ebbf8c2572388aa2b2aa51e66947775b00c84c1a",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/carousel_list_4_0711_230523_b695.png"
+    },
+    {
+      "name": "carousel_list_4_0711_230533_3325.png",
+      "path": "carousel_list_4_0711_230533_3325.png",
+      "size": 1245419,
+      "size_mb": 1.188,
+      "sha": "5af0bd21b8dc0f8537ab362ee05ec3167b421906",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/carousel_list_4_0711_230533_3325.png"
+    },
+    {
       "name": "carousel_quote_5_0503_1634.png",
       "path": "carousel_quote_5_0503_1634.png",
       "size": 98365,
@@ -550,6 +718,38 @@
       "size_mb": 1.597,
       "sha": "f04aa09e63b31b6ad40198cda607b1a778932b99",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/carousel_quote_5_0505_2039.png"
+    },
+    {
+      "name": "carousel_quote_5_0711_1617.png",
+      "path": "carousel_quote_5_0711_1617.png",
+      "size": 1191374,
+      "size_mb": 1.136,
+      "sha": "606bf754201b23d2bd127afb384271d8d5f24efb",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/carousel_quote_5_0711_1617.png"
+    },
+    {
+      "name": "carousel_quote_5_0711_230514_150f.png",
+      "path": "carousel_quote_5_0711_230514_150f.png",
+      "size": 1240082,
+      "size_mb": 1.183,
+      "sha": "5003d702fb644203b794bf04816fe557bf2f8cc5",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/carousel_quote_5_0711_230514_150f.png"
+    },
+    {
+      "name": "carousel_quote_5_0711_230524_b9e5.png",
+      "path": "carousel_quote_5_0711_230524_b9e5.png",
+      "size": 1693170,
+      "size_mb": 1.615,
+      "sha": "2f4dcbc2cfaa2d3282d012f77625a605fb068707",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/carousel_quote_5_0711_230524_b9e5.png"
+    },
+    {
+      "name": "carousel_quote_5_0711_230533_84e2.png",
+      "path": "carousel_quote_5_0711_230533_84e2.png",
+      "size": 1191374,
+      "size_mb": 1.136,
+      "sha": "606bf754201b23d2bd127afb384271d8d5f24efb",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/carousel_quote_5_0711_230533_84e2.png"
     },
     {
       "name": "carousel_stat_2_0503_1634.png",
@@ -688,6 +888,38 @@
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/carousel_stat_2_0505_2039.png"
     },
     {
+      "name": "carousel_stat_2_0711_1617.png",
+      "path": "carousel_stat_2_0711_1617.png",
+      "size": 1387989,
+      "size_mb": 1.324,
+      "sha": "a351c4355b64ef1adeb261b65c7dc19a3867904f",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/carousel_stat_2_0711_1617.png"
+    },
+    {
+      "name": "carousel_stat_2_0711_230513_70fc.png",
+      "path": "carousel_stat_2_0711_230513_70fc.png",
+      "size": 1432160,
+      "size_mb": 1.366,
+      "sha": "5ca4db1276eb278a8e23828fefa8c7fdb9c7818a",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/carousel_stat_2_0711_230513_70fc.png"
+    },
+    {
+      "name": "carousel_stat_2_0711_230523_a9c0.png",
+      "path": "carousel_stat_2_0711_230523_a9c0.png",
+      "size": 1847114,
+      "size_mb": 1.762,
+      "sha": "1145378ef034fbe38d865def0afc764a0d5a68c3",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/carousel_stat_2_0711_230523_a9c0.png"
+    },
+    {
+      "name": "carousel_stat_2_0711_230532_616b.png",
+      "path": "carousel_stat_2_0711_230532_616b.png",
+      "size": 1387989,
+      "size_mb": 1.324,
+      "sha": "a351c4355b64ef1adeb261b65c7dc19a3867904f",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/carousel_stat_2_0711_230532_616b.png"
+    },
+    {
       "name": "carousel_stmt_3_0503_1634.png",
       "path": "carousel_stmt_3_0503_1634.png",
       "size": 78731,
@@ -824,12 +1056,76 @@
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/carousel_stmt_3_0505_2039.png"
     },
     {
+      "name": "carousel_stmt_3_0711_1617.png",
+      "path": "carousel_stmt_3_0711_1617.png",
+      "size": 1414600,
+      "size_mb": 1.349,
+      "sha": "7522d5afc43da77ff22b7494c1f3a37bcf0a4221",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/carousel_stmt_3_0711_1617.png"
+    },
+    {
+      "name": "carousel_stmt_3_0711_230514_1dd8.png",
+      "path": "carousel_stmt_3_0711_230514_1dd8.png",
+      "size": 1512853,
+      "size_mb": 1.443,
+      "sha": "92aa8a2ae40f0062140b7c3cd299624d27c2a210",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/carousel_stmt_3_0711_230514_1dd8.png"
+    },
+    {
+      "name": "carousel_stmt_3_0711_230523_ac67.png",
+      "path": "carousel_stmt_3_0711_230523_ac67.png",
+      "size": 1866022,
+      "size_mb": 1.78,
+      "sha": "ceed4d5a828dda3e9c411a5af3b3a9628e386c22",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/carousel_stmt_3_0711_230523_ac67.png"
+    },
+    {
+      "name": "carousel_stmt_3_0711_230532_785b.png",
+      "path": "carousel_stmt_3_0711_230532_785b.png",
+      "size": 1414600,
+      "size_mb": 1.349,
+      "sha": "7522d5afc43da77ff22b7494c1f3a37bcf0a4221",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/carousel_stmt_3_0711_230532_785b.png"
+    },
+    {
       "name": "carousel_stmt_6_0503_1644.png",
       "path": "carousel_stmt_6_0503_1644.png",
       "size": 63275,
       "size_mb": 0.06,
       "sha": "f3e482f981b4a459418b7540e872f4263f735630",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/carousel_stmt_6_0503_1644.png"
+    },
+    {
+      "name": "comparison_0503_1058.png",
+      "path": "comparison_0503_1058.png",
+      "size": 170755,
+      "size_mb": 0.163,
+      "sha": "164d66068c52050bf4682bdea55b97658d0278fa",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/comparison_0503_1058.png"
+    },
+    {
+      "name": "comparison_0503_1444.png",
+      "path": "comparison_0503_1444.png",
+      "size": 156138,
+      "size_mb": 0.149,
+      "sha": "fda586d3d464c6f8c9270c006afeb9dede927e9a",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/comparison_0503_1444.png"
+    },
+    {
+      "name": "comparison_0711_1617.png",
+      "path": "comparison_0711_1617.png",
+      "size": 140266,
+      "size_mb": 0.134,
+      "sha": "8e59776765cb2a16bb2c3d959f816aca7eff63f0",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/comparison_0711_1617.png"
+    },
+    {
+      "name": "comparison_0711_2305.png",
+      "path": "comparison_0711_2305.png",
+      "size": 140266,
+      "size_mb": 0.134,
+      "sha": "8e59776765cb2a16bb2c3d959f816aca7eff63f0",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/comparison_0711_2305.png"
     },
     {
       "name": "instagram_aurora_borealis_How_AI_is_changing_creati_7453.png",
@@ -878,6 +1174,326 @@
       "size_mb": 1.321,
       "sha": "9e6b9a83028f078a040606fa8d97762d1692e6ac",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_neo_brutalism_w_How_AI_agents_work_fd4b.png"
+    },
+    {
+      "name": "instagram_slideshow_agent_builder_stack_0610_154417.mp4",
+      "path": "instagram_slideshow_agent_builder_stack_0610_154417.mp4",
+      "size": 4228808,
+      "size_mb": 4.033,
+      "sha": "d2757db4238e3bf3d63a63169a51cb5a61c8d65a",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_agent_builder_stack_0610_154417.mp4"
+    },
+    {
+      "name": "instagram_slideshow_agent_builder_stack_0626_090006.mp4",
+      "path": "instagram_slideshow_agent_builder_stack_0626_090006.mp4",
+      "size": 2161683,
+      "size_mb": 2.062,
+      "sha": "22db11b21121fc3642dab31de7fed66aded68ab1",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_agent_builder_stack_0626_090006.mp4"
+    },
+    {
+      "name": "instagram_slideshow_ai_agent_frameworks_0610_154355.mp4",
+      "path": "instagram_slideshow_ai_agent_frameworks_0610_154355.mp4",
+      "size": 3450113,
+      "size_mb": 3.29,
+      "sha": "d62c3185d12b497cc8cf81877327b2c2448fdf03",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_ai_agent_frameworks_0610_154355.mp4"
+    },
+    {
+      "name": "instagram_slideshow_ai_agent_frameworks_0615_090002.mp4",
+      "path": "instagram_slideshow_ai_agent_frameworks_0615_090002.mp4",
+      "size": 1626846,
+      "size_mb": 1.551,
+      "sha": "85fb8eb139103bb5f2bd02d1d12fe3f1b7b5d91d",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_ai_agent_frameworks_0615_090002.mp4"
+    },
+    {
+      "name": "instagram_slideshow_ai_tools_for_trades_0624_090006.mp4",
+      "path": "instagram_slideshow_ai_tools_for_trades_0624_090006.mp4",
+      "size": 2163934,
+      "size_mb": 2.064,
+      "sha": "beff39c40b69a705a29774767012181afec8ef86",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_ai_tools_for_trades_0624_090006.mp4"
+    },
+    {
+      "name": "instagram_slideshow_ai_tools_local_stack_0703_090005.mp4",
+      "path": "instagram_slideshow_ai_tools_local_stack_0703_090005.mp4",
+      "size": 2071336,
+      "size_mb": 1.975,
+      "sha": "02f6937c4c68e4d3d7df012fc5526a1cb7dc307a",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_ai_tools_local_stack_0703_090005.mp4"
+    },
+    {
+      "name": "instagram_slideshow_before_after_followup_0612_090002.mp4",
+      "path": "instagram_slideshow_before_after_followup_0612_090002.mp4",
+      "size": 2153835,
+      "size_mb": 2.054,
+      "sha": "384122d3ef97d0527ce9ae7fda811cd15ac8aff0",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_before_after_followup_0612_090002.mp4"
+    },
+    {
+      "name": "instagram_slideshow_before_after_followup_0628_090001.mp4",
+      "path": "instagram_slideshow_before_after_followup_0628_090001.mp4",
+      "size": 2153835,
+      "size_mb": 2.054,
+      "sha": "384122d3ef97d0527ce9ae7fda811cd15ac8aff0",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_before_after_followup_0628_090001.mp4"
+    },
+    {
+      "name": "instagram_slideshow_before_after_followup_0706_090218.mp4",
+      "path": "instagram_slideshow_before_after_followup_0706_090218.mp4",
+      "size": 2153835,
+      "size_mb": 2.054,
+      "sha": "384122d3ef97d0527ce9ae7fda811cd15ac8aff0",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_before_after_followup_0706_090218.mp4"
+    },
+    {
+      "name": "instagram_slideshow_before_after_followup_0710_090148.mp4",
+      "path": "instagram_slideshow_before_after_followup_0710_090148.mp4",
+      "size": 2153835,
+      "size_mb": 2.054,
+      "sha": "384122d3ef97d0527ce9ae7fda811cd15ac8aff0",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_before_after_followup_0710_090148.mp4"
+    },
+    {
+      "name": "instagram_slideshow_brief_agent_era_0629_090002.mp4",
+      "path": "instagram_slideshow_brief_agent_era_0629_090002.mp4",
+      "size": 1634314,
+      "size_mb": 1.559,
+      "sha": "d983e6034f38b95f13291d285829114c5b0011e0",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_brief_agent_era_0629_090002.mp4"
+    },
+    {
+      "name": "instagram_slideshow_brief_followup_gap_0708_090208.mp4",
+      "path": "instagram_slideshow_brief_followup_gap_0708_090208.mp4",
+      "size": 1531020,
+      "size_mb": 1.46,
+      "sha": "075d4b1b191f5b0606602d7322ea393ad2be335b",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_brief_followup_gap_0708_090208.mp4"
+    },
+    {
+      "name": "instagram_slideshow_brief_intake_bottleneck_0622_090005.mp4",
+      "path": "instagram_slideshow_brief_intake_bottleneck_0622_090005.mp4",
+      "size": 1694979,
+      "size_mb": 1.616,
+      "sha": "1a6eb19decb0f2ff86f9061d00034898e4d3040c",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_brief_intake_bottleneck_0622_090005.mp4"
+    },
+    {
+      "name": "instagram_slideshow_brief_local_ai_cost_0620_090005.mp4",
+      "path": "instagram_slideshow_brief_local_ai_cost_0620_090005.mp4",
+      "size": 1519202,
+      "size_mb": 1.449,
+      "sha": "61db83f323335d0faf798980c283e54b2d44cbda",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_brief_local_ai_cost_0620_090005.mp4"
+    },
+    {
+      "name": "instagram_slideshow_brief_response_time_0614_090003.mp4",
+      "path": "instagram_slideshow_brief_response_time_0614_090003.mp4",
+      "size": 1476332,
+      "size_mb": 1.408,
+      "sha": "3504d69cea258e820e8e4f4670e0bccc50f00385",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_brief_response_time_0614_090003.mp4"
+    },
+    {
+      "name": "instagram_slideshow_challenge_ai_or_human_followup_0711_090140.mp4",
+      "path": "instagram_slideshow_challenge_ai_or_human_followup_0711_090140.mp4",
+      "size": 3252865,
+      "size_mb": 3.102,
+      "sha": "60c6cd9288026a172639e4257957d760f5326fa5",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_challenge_ai_or_human_followup_0711_090140.mp4"
+    },
+    {
+      "name": "instagram_slideshow_challenge_guess_the_prompt_0630_090005.mp4",
+      "path": "instagram_slideshow_challenge_guess_the_prompt_0630_090005.mp4",
+      "size": 3463159,
+      "size_mb": 3.303,
+      "sha": "166e29c4f299e36c3941e68099717bb5b8008c38",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_challenge_guess_the_prompt_0630_090005.mp4"
+    },
+    {
+      "name": "instagram_slideshow_claude_agent_sdk_launch_0621_090006.mp4",
+      "path": "instagram_slideshow_claude_agent_sdk_launch_0621_090006.mp4",
+      "size": 2495714,
+      "size_mb": 2.38,
+      "sha": "a7da0b66dad7630a3c5c4ee867623a630e017e43",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_claude_agent_sdk_launch_0621_090006.mp4"
+    },
+    {
+      "name": "instagram_slideshow_local_ai_hardware_changes_the_economics_of_0607_233133.mp4",
+      "path": "instagram_slideshow_local_ai_hardware_changes_the_economics_of_0607_233133.mp4",
+      "size": 2047593,
+      "size_mb": 1.953,
+      "sha": "50d0b634300b02b17dce668e88c1bb16188cc9dd",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_local_ai_hardware_changes_the_economics_of_0607_233133.mp4"
+    },
+    {
+      "name": "instagram_slideshow_local_ai_stack_flow_0610_154335.mp4",
+      "path": "instagram_slideshow_local_ai_stack_flow_0610_154335.mp4",
+      "size": 4053895,
+      "size_mb": 3.866,
+      "sha": "b93963a3a66465b1cd83370b0c5d3eba96299720",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_local_ai_stack_flow_0610_154335.mp4"
+    },
+    {
+      "name": "instagram_slideshow_local_ai_stack_flow_0705_090003.mp4",
+      "path": "instagram_slideshow_local_ai_stack_flow_0705_090003.mp4",
+      "size": 1883472,
+      "size_mb": 1.796,
+      "sha": "d15016db721aae05a3f7e3726e234a4cae7f8c09",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_local_ai_stack_flow_0705_090003.mp4"
+    },
+    {
+      "name": "instagram_slideshow_local_ai_stack_flow_0709_090220.mp4",
+      "path": "instagram_slideshow_local_ai_stack_flow_0709_090220.mp4",
+      "size": 1974062,
+      "size_mb": 1.883,
+      "sha": "e861ade3dc1f889149d5c5e3f568e2146d855419",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_local_ai_stack_flow_0709_090220.mp4"
+    },
+    {
+      "name": "instagram_slideshow_pov_ai_caught_mistake_0701_090003.mp4",
+      "path": "instagram_slideshow_pov_ai_caught_mistake_0701_090003.mp4",
+      "size": 2030748,
+      "size_mb": 1.937,
+      "sha": "4de07ef794e77073e6cd8fdf04ec98d2250b00ff",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_pov_ai_caught_mistake_0701_090003.mp4"
+    },
+    {
+      "name": "instagram_slideshow_pov_prompt_glow_up_0622_111701.mp4",
+      "path": "instagram_slideshow_pov_prompt_glow_up_0622_111701.mp4",
+      "size": 1925836,
+      "size_mb": 1.837,
+      "sha": "7c7590c305bc2011778139959b2fcd601baac923",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_pov_prompt_glow_up_0622_111701.mp4"
+    },
+    {
+      "name": "instagram_slideshow_pov_prompt_glow_up_0622_112059.mp4",
+      "path": "instagram_slideshow_pov_prompt_glow_up_0622_112059.mp4",
+      "size": 1925836,
+      "size_mb": 1.837,
+      "sha": "7c7590c305bc2011778139959b2fcd601baac923",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_pov_prompt_glow_up_0622_112059.mp4"
+    },
+    {
+      "name": "instagram_slideshow_prompts_for_builders_0616_090005.mp4",
+      "path": "instagram_slideshow_prompts_for_builders_0616_090005.mp4",
+      "size": 2665165,
+      "size_mb": 2.542,
+      "sha": "1f74aea824f2bb037a9a9840b25a6c9b436a5c31",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_prompts_for_builders_0616_090005.mp4"
+    },
+    {
+      "name": "instagram_slideshow_prompts_for_content_0610_154225.mp4",
+      "path": "instagram_slideshow_prompts_for_content_0610_154225.mp4",
+      "size": 5040995,
+      "size_mb": 4.807,
+      "sha": "7cc8be9845e6e47e2598aa2ddce2c47af90889da",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_prompts_for_content_0610_154225.mp4"
+    },
+    {
+      "name": "instagram_slideshow_prompts_for_content_0707_090251.mp4",
+      "path": "instagram_slideshow_prompts_for_content_0707_090251.mp4",
+      "size": 2600699,
+      "size_mb": 2.48,
+      "sha": "88d2bd11f7a66a191f79fb163dc2246ad3f3dccf",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_prompts_for_content_0707_090251.mp4"
+    },
+    {
+      "name": "instagram_slideshow_prompts_for_ops_leaders_0625_090015.mp4",
+      "path": "instagram_slideshow_prompts_for_ops_leaders_0625_090015.mp4",
+      "size": 2799415,
+      "size_mb": 2.67,
+      "sha": "27750d3ebeec2f8a1896c34571a1dd310cc860b9",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_prompts_for_ops_leaders_0625_090015.mp4"
+    },
+    {
+      "name": "instagram_slideshow_revenue_leak_contractors_0613_090314.mp4",
+      "path": "instagram_slideshow_revenue_leak_contractors_0613_090314.mp4",
+      "size": 2019037,
+      "size_mb": 1.926,
+      "sha": "4ff7f37ce35684f0e3e4c956dac040b42fa2c721",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_revenue_leak_contractors_0613_090314.mp4"
+    },
+    {
+      "name": "instagram_slideshow_revenue_leak_service_biz_0619_090005.mp4",
+      "path": "instagram_slideshow_revenue_leak_service_biz_0619_090005.mp4",
+      "size": 2064376,
+      "size_mb": 1.969,
+      "sha": "807bd91d90665e941ee0d844bd34143bcd90c7cb",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_revenue_leak_service_biz_0619_090005.mp4"
+    },
+    {
+      "name": "instagram_slideshow_why_local_ai_beats_the_api_for_regulated_t_0610_154346.mp4",
+      "path": "instagram_slideshow_why_local_ai_beats_the_api_for_regulated_t_0610_154346.mp4",
+      "size": 2399139,
+      "size_mb": 2.288,
+      "sha": "f0f7f456d15153ab13624c116ad5451e86c52336",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_why_local_ai_beats_the_api_for_regulated_t_0610_154346.mp4"
+    },
+    {
+      "name": "instagram_slideshow_why_the_claude_agent_sdk_changes_how_you_b_0611_090005.mp4",
+      "path": "instagram_slideshow_why_the_claude_agent_sdk_changes_how_you_b_0611_090005.mp4",
+      "size": 2514231,
+      "size_mb": 2.398,
+      "sha": "4f543b2e41d9f6494e782192c65ad2e06ce9ad0c",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_why_the_claude_agent_sdk_changes_how_you_b_0611_090005.mp4"
+    },
+    {
+      "name": "instagram_slideshow_why_the_claude_agent_sdk_changes_how_you_b_0627_090006.mp4",
+      "path": "instagram_slideshow_why_the_claude_agent_sdk_changes_how_you_b_0627_090006.mp4",
+      "size": 2514231,
+      "size_mb": 2.398,
+      "sha": "4f543b2e41d9f6494e782192c65ad2e06ce9ad0c",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_why_the_claude_agent_sdk_changes_how_you_b_0627_090006.mp4"
+    },
+    {
+      "name": "instagram_slideshow_work_prompts_hours_0610_090006.mp4",
+      "path": "instagram_slideshow_work_prompts_hours_0610_090006.mp4",
+      "size": 3505658,
+      "size_mb": 3.343,
+      "sha": "88210808af24f45f8ba8a39c66d27d24db2362fb",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_work_prompts_hours_0610_090006.mp4"
+    },
+    {
+      "name": "instagram_slideshow_work_prompts_hours_0610_154405.mp4",
+      "path": "instagram_slideshow_work_prompts_hours_0610_154405.mp4",
+      "size": 3941104,
+      "size_mb": 3.759,
+      "sha": "e4d98edd662b43efd504be845d8acfe2f9fb68fe",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_work_prompts_hours_0610_154405.mp4"
+    },
+    {
+      "name": "instagram_slideshow_work_prompts_hours_0704_090002.mp4",
+      "path": "instagram_slideshow_work_prompts_hours_0704_090002.mp4",
+      "size": 1963529,
+      "size_mb": 1.873,
+      "sha": "428f821cd52cd03f86e52e19ef53d0d69b4136a0",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_work_prompts_hours_0704_090002.mp4"
+    },
+    {
+      "name": "instagram_slideshow_workflow_proof_beats_model_demos_0610_154428.mp4",
+      "path": "instagram_slideshow_workflow_proof_beats_model_demos_0610_154428.mp4",
+      "size": 2520562,
+      "size_mb": 2.404,
+      "sha": "0ce6b8f57cec366dea16471245b35ed0c335b752",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_workflow_proof_beats_model_demos_0610_154428.mp4"
+    },
+    {
+      "name": "instagram_slideshow_xio_projects_showcase_0623_090006.mp4",
+      "path": "instagram_slideshow_xio_projects_showcase_0623_090006.mp4",
+      "size": 1992678,
+      "size_mb": 1.9,
+      "sha": "6a5a73e5691fa5d95b714f2032ea9d1a7576130d",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_xio_projects_showcase_0623_090006.mp4"
+    },
+    {
+      "name": "instagram_slideshow_xio_tools_for_builders_0702_090003.mp4",
+      "path": "instagram_slideshow_xio_tools_for_builders_0702_090003.mp4",
+      "size": 1692763,
+      "size_mb": 1.614,
+      "sha": "3c8218b9f9cafad2ef23789fa51def5a74491818",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_xio_tools_for_builders_0702_090003.mp4"
     },
     {
       "name": "leonardo_photoreal_0504_120655_0.jpg",
@@ -1224,6 +1840,134 @@
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/leonardo_photoreal_0505_212717_0.jpg"
     },
     {
+      "name": "leonardo_photoreal_0711_161737_0.jpg",
+      "path": "leonardo_photoreal_0711_161737_0.jpg",
+      "size": 320415,
+      "size_mb": 0.306,
+      "sha": "7cab9d03dda05a61697dd28d08908d2659b2decc",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/leonardo_photoreal_0711_161737_0.jpg"
+    },
+    {
+      "name": "leonardo_photoreal_0711_161746_0.jpg",
+      "path": "leonardo_photoreal_0711_161746_0.jpg",
+      "size": 379019,
+      "size_mb": 0.361,
+      "sha": "5d1b17566c4b313cf980974ca5dc0c8f996ce5d7",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/leonardo_photoreal_0711_161746_0.jpg"
+    },
+    {
+      "name": "leonardo_photoreal_0711_161755_0.jpg",
+      "path": "leonardo_photoreal_0711_161755_0.jpg",
+      "size": 294412,
+      "size_mb": 0.281,
+      "sha": "8c64aa65c8eb47a2315f089df1b1bab7b6ed1e1e",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/leonardo_photoreal_0711_161755_0.jpg"
+    },
+    {
+      "name": "leonardo_photoreal_0711_161807_0.jpg",
+      "path": "leonardo_photoreal_0711_161807_0.jpg",
+      "size": 240961,
+      "size_mb": 0.23,
+      "sha": "f3ee5072c371b1278d81457b6932a3813c1f232b",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/leonardo_photoreal_0711_161807_0.jpg"
+    },
+    {
+      "name": "leonardo_photoreal_0711_161814_0.jpg",
+      "path": "leonardo_photoreal_0711_161814_0.jpg",
+      "size": 214906,
+      "size_mb": 0.205,
+      "sha": "660206f7f567beaad0bbffa003ed0ee42de16add",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/leonardo_photoreal_0711_161814_0.jpg"
+    },
+    {
+      "name": "leonardo_photoreal_0711_161822_0.jpg",
+      "path": "leonardo_photoreal_0711_161822_0.jpg",
+      "size": 323844,
+      "size_mb": 0.309,
+      "sha": "1016c1e5ffa5a4f0b0840e930dccdf86bbf23ac5",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/leonardo_photoreal_0711_161822_0.jpg"
+    },
+    {
+      "name": "leonardo_photoreal_0711_161830_0.jpg",
+      "path": "leonardo_photoreal_0711_161830_0.jpg",
+      "size": 232806,
+      "size_mb": 0.222,
+      "sha": "56c1811c4492ca4309ed42f511cf000dfc1d9a38",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/leonardo_photoreal_0711_161830_0.jpg"
+    },
+    {
+      "name": "leonardo_photoreal_0711_161837_0.jpg",
+      "path": "leonardo_photoreal_0711_161837_0.jpg",
+      "size": 223662,
+      "size_mb": 0.213,
+      "sha": "7fb8b3822d50d993e4352f52ef82c4979f85b135",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/leonardo_photoreal_0711_161837_0.jpg"
+    },
+    {
+      "name": "leonardo_photoreal_0711_161845_0.jpg",
+      "path": "leonardo_photoreal_0711_161845_0.jpg",
+      "size": 215769,
+      "size_mb": 0.206,
+      "sha": "3a53668ada826bf2c8ed336a8b6e7fa44c20bd74",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/leonardo_photoreal_0711_161845_0.jpg"
+    },
+    {
+      "name": "leonardo_photoreal_0711_161901_0.jpg",
+      "path": "leonardo_photoreal_0711_161901_0.jpg",
+      "size": 268023,
+      "size_mb": 0.256,
+      "sha": "521f6b64667803c31ff74c25595d4bd5cea1afba",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/leonardo_photoreal_0711_161901_0.jpg"
+    },
+    {
+      "name": "leonardo_photoreal_0711_161909_0.jpg",
+      "path": "leonardo_photoreal_0711_161909_0.jpg",
+      "size": 224062,
+      "size_mb": 0.214,
+      "sha": "dc4a0537fc21daad9548c83de035b74e7d839d6b",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/leonardo_photoreal_0711_161909_0.jpg"
+    },
+    {
+      "name": "leonardo_photoreal_0711_161925_0.jpg",
+      "path": "leonardo_photoreal_0711_161925_0.jpg",
+      "size": 208114,
+      "size_mb": 0.198,
+      "sha": "d33bb7a4a3c1fb997dc88d371501ac3448b71413",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/leonardo_photoreal_0711_161925_0.jpg"
+    },
+    {
+      "name": "leonardo_photoreal_0711_161933_0.jpg",
+      "path": "leonardo_photoreal_0711_161933_0.jpg",
+      "size": 219606,
+      "size_mb": 0.209,
+      "sha": "e814794691eb3d215655dd141fdf21b2e1dfa548",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/leonardo_photoreal_0711_161933_0.jpg"
+    },
+    {
+      "name": "leonardo_photoreal_0711_230513_0.jpg",
+      "path": "leonardo_photoreal_0711_230513_0.jpg",
+      "size": 320415,
+      "size_mb": 0.306,
+      "sha": "7cab9d03dda05a61697dd28d08908d2659b2decc",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/leonardo_photoreal_0711_230513_0.jpg"
+    },
+    {
+      "name": "leonardo_photoreal_0711_230522_0.jpg",
+      "path": "leonardo_photoreal_0711_230522_0.jpg",
+      "size": 379019,
+      "size_mb": 0.361,
+      "sha": "5d1b17566c4b313cf980974ca5dc0c8f996ce5d7",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/leonardo_photoreal_0711_230522_0.jpg"
+    },
+    {
+      "name": "leonardo_photoreal_0711_230531_0.jpg",
+      "path": "leonardo_photoreal_0711_230531_0.jpg",
+      "size": 294412,
+      "size_mb": 0.281,
+      "sha": "8c64aa65c8eb47a2315f089df1b1bab7b6ed1e1e",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/leonardo_photoreal_0711_230531_0.jpg"
+    },
+    {
       "name": "market_0502_1549.png",
       "path": "market_0502_1549.png",
       "size": 100267,
@@ -1392,6 +2136,38 @@
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/market_growth.png"
     },
     {
+      "name": "modern_modern_construction_0711_231626.jpg",
+      "path": "modern_modern_construction_0711_231626.jpg",
+      "size": 169243,
+      "size_mb": 0.161,
+      "sha": "2cc227c2c211875be72432fd7d27d45abc08ed3c",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/modern_modern_construction_0711_231626.jpg"
+    },
+    {
+      "name": "modern_modern_network_0711_231635.jpg",
+      "path": "modern_modern_network_0711_231635.jpg",
+      "size": 229204,
+      "size_mb": 0.219,
+      "sha": "6afbebae001b6ece72501ce9f1bc303faa3d7047",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/modern_modern_network_0711_231635.jpg"
+    },
+    {
+      "name": "modern_modern_stat_bg_0711_231645.jpg",
+      "path": "modern_modern_stat_bg_0711_231645.jpg",
+      "size": 114536,
+      "size_mb": 0.109,
+      "sha": "5b1b3eb0466dcfd0b34a2e3fd4a2a4a4249ba2e0",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/modern_modern_stat_bg_0711_231645.jpg"
+    },
+    {
+      "name": "modern_modern_team_0711_231616.jpg",
+      "path": "modern_modern_team_0711_231616.jpg",
+      "size": 188128,
+      "size_mb": 0.179,
+      "sha": "8bce6a2b1f3ec2136ad58bd227c41ad571ccf407",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/modern_modern_team_0711_231616.jpg"
+    },
+    {
       "name": "robot-hand-interface.jpg",
       "path": "robot-hand-interface.jpg",
       "size": 155358,
@@ -1518,6 +2294,22 @@
       "size_mb": 0.223,
       "sha": "f75f71ea9c8d1f902bc664a532a13eac2ef3c3cf",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/roi_0505_1100.png"
+    },
+    {
+      "name": "roi_0711_1617.png",
+      "path": "roi_0711_1617.png",
+      "size": 240054,
+      "size_mb": 0.229,
+      "sha": "9d6a2c92bbe8a607b53a31312d56b612979567b6",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/roi_0711_1617.png"
+    },
+    {
+      "name": "roi_0711_2305.png",
+      "path": "roi_0711_2305.png",
+      "size": 239902,
+      "size_mb": 0.229,
+      "sha": "6fbcf12d4fd01f290a90750139fb670a45185962",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/roi_0711_2305.png"
     },
     {
       "name": "roi_infographic_ai_implementation_roi.png",
@@ -3086,6 +3878,30 @@
       "size_mb": 12.099,
       "sha": "04d661720e1a121ade72e446706bbe8ec789a768",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0607_200723.mp4"
+    },
+    {
+      "name": "video_narrative_0711_161830.mp4",
+      "path": "video_narrative_0711_161830.mp4",
+      "size": 12293588,
+      "size_mb": 11.724,
+      "sha": "cf1c578fb8e6b64b7475df40e7e4f7045261bdaa",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0711_161830.mp4"
+    },
+    {
+      "name": "video_narrative_0711_161854.mp4",
+      "path": "video_narrative_0711_161854.mp4",
+      "size": 12397065,
+      "size_mb": 11.823,
+      "sha": "a458c38c067e14781236a855e83bbe3ba4666397",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0711_161854.mp4"
+    },
+    {
+      "name": "video_narrative_0711_161918.mp4",
+      "path": "video_narrative_0711_161918.mp4",
+      "size": 12592819,
+      "size_mb": 12.009,
+      "sha": "9272ade9787516e50c5f24031a850cd43b8381ef",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0711_161918.mp4"
     },
     {
       "name": "video_premium_0505_184753.mp4",
