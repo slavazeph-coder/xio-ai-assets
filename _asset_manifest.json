@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-07-11T23:19:23",
+  "generated_at": "2026-07-31T09:01:16",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
-  "asset_count": 494,
-  "total_size": 2422963499,
-  "total_size_mb": 2310.72,
+  "asset_count": 513,
+  "total_size": 2463496336,
+  "total_size_mb": 2349.37,
   "assets": [
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "size": 378,
+      "size_mb": 0.0,
+      "sha": "2ab894ef2e787a7f30cbc74cda0794f7eab0a4ec",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/README.md"
+    },
     {
       "name": "adoption_0503_1444.png",
       "path": "adoption_0503_1444.png",
@@ -1360,6 +1368,14 @@
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_pov_ai_caught_mistake_0701_090003.mp4"
     },
     {
+      "name": "instagram_slideshow_pov_client_asks_ai_0715_090207.mp4",
+      "path": "instagram_slideshow_pov_client_asks_ai_0715_090207.mp4",
+      "size": 2094119,
+      "size_mb": 1.997,
+      "sha": "a18c382b86bfb82518e358f367cda7dfccac1308",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_pov_client_asks_ai_0715_090207.mp4"
+    },
+    {
       "name": "instagram_slideshow_pov_prompt_glow_up_0622_111701.mp4",
       "path": "instagram_slideshow_pov_prompt_glow_up_0622_111701.mp4",
       "size": 1925836,
@@ -1408,6 +1424,14 @@
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_prompts_for_ops_leaders_0625_090015.mp4"
     },
     {
+      "name": "instagram_slideshow_prompts_for_ops_leaders_0714_090134.mp4",
+      "path": "instagram_slideshow_prompts_for_ops_leaders_0714_090134.mp4",
+      "size": 2801848,
+      "size_mb": 2.672,
+      "sha": "44f3abf3e3f2cf744d76f77491794bf06e39db7a",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_prompts_for_ops_leaders_0714_090134.mp4"
+    },
+    {
       "name": "instagram_slideshow_revenue_leak_contractors_0613_090314.mp4",
       "path": "instagram_slideshow_revenue_leak_contractors_0613_090314.mp4",
       "size": 2019037,
@@ -1422,6 +1446,78 @@
       "size_mb": 1.969,
       "sha": "807bd91d90665e941ee0d844bd34143bcd90c7cb",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_revenue_leak_service_biz_0619_090005.mp4"
+    },
+    {
+      "name": "instagram_slideshow_v2-safe-playbook-agent-receipts-0_0723_090006.mp4",
+      "path": "instagram_slideshow_v2-safe-playbook-agent-receipts-0_0723_090006.mp4",
+      "size": 2295856,
+      "size_mb": 2.189,
+      "sha": "d27e985a14deb595905b49c97387865a10aa5e32",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_v2-safe-playbook-agent-receipts-0_0723_090006.mp4"
+    },
+    {
+      "name": "instagram_slideshow_v2-safe-playbook-human-review-boundary-0_0722_090002.mp4",
+      "path": "instagram_slideshow_v2-safe-playbook-human-review-boundary-0_0722_090002.mp4",
+      "size": 2086507,
+      "size_mb": 1.99,
+      "sha": "f58063f3bdea8f456d4f269013c2aa6f7617768b",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_v2-safe-playbook-human-review-boundary-0_0722_090002.mp4"
+    },
+    {
+      "name": "instagram_slideshow_v2-safe-playbook-one-workflow-pilot-0_0721_090005.mp4",
+      "path": "instagram_slideshow_v2-safe-playbook-one-workflow-pilot-0_0721_090005.mp4",
+      "size": 2075516,
+      "size_mb": 1.979,
+      "sha": "6d7ccff2e4a6c6fcddddf695d651ed58ac737d70",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_v2-safe-playbook-one-workflow-pilot-0_0721_090005.mp4"
+    },
+    {
+      "name": "instagram_slideshow_v2-safe-proof-acquisition-ops-1_0724_090004.mp4",
+      "path": "instagram_slideshow_v2-safe-proof-acquisition-ops-1_0724_090004.mp4",
+      "size": 2087148,
+      "size_mb": 1.99,
+      "sha": "c6473349d46cc52fd7cf4a68820fc2b47a70a936",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_v2-safe-proof-acquisition-ops-1_0724_090004.mp4"
+    },
+    {
+      "name": "instagram_slideshow_v2-safe-proof-creative-lane-0_0717_090004.mp4",
+      "path": "instagram_slideshow_v2-safe-proof-creative-lane-0_0717_090004.mp4",
+      "size": 2211420,
+      "size_mb": 2.109,
+      "sha": "df4f7a4fbc3cb25394923efdf04c3d57c3456ee3",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_v2-safe-proof-creative-lane-0_0717_090004.mp4"
+    },
+    {
+      "name": "instagram_slideshow_v2-safe-proof-private-ai-boundary-0_0720_090002.mp4",
+      "path": "instagram_slideshow_v2-safe-proof-private-ai-boundary-0_0720_090002.mp4",
+      "size": 2144574,
+      "size_mb": 2.045,
+      "sha": "c2d9e157f605da79ff9c1442fa66a40cd5e4fc3a",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_v2-safe-proof-private-ai-boundary-0_0720_090002.mp4"
+    },
+    {
+      "name": "instagram_slideshow_v2-safe-proof-public-builder-record-0_0718_090004.mp4",
+      "path": "instagram_slideshow_v2-safe-proof-public-builder-record-0_0718_090004.mp4",
+      "size": 2030369,
+      "size_mb": 1.936,
+      "sha": "ee7ba099d1e79b13818771f152e6cfa1c3123e07",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_v2-safe-proof-public-builder-record-0_0718_090004.mp4"
+    },
+    {
+      "name": "instagram_slideshow_v2-safe-proof-setup-day-handoff-0_0716_090003.mp4",
+      "path": "instagram_slideshow_v2-safe-proof-setup-day-handoff-0_0716_090003.mp4",
+      "size": 2109910,
+      "size_mb": 2.012,
+      "sha": "929bed0c4906bc78a39f7ccaf566c5bf951897a1",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_v2-safe-proof-setup-day-handoff-0_0716_090003.mp4"
+    },
+    {
+      "name": "instagram_slideshow_v2-safe-proof-task-plan-preview-0_0719_090003.mp4",
+      "path": "instagram_slideshow_v2-safe-proof-task-plan-preview-0_0719_090003.mp4",
+      "size": 2292942,
+      "size_mb": 2.187,
+      "sha": "f0b4035b41f23c12a0b5f49f2b99233dd0783e14",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_v2-safe-proof-task-plan-preview-0_0719_090003.mp4"
     },
     {
       "name": "instagram_slideshow_why_local_ai_beats_the_api_for_regulated_t_0610_154346.mp4",
@@ -1494,6 +1590,14 @@
       "size_mb": 1.614,
       "sha": "3c8218b9f9cafad2ef23789fa51def5a74491818",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_xio_tools_for_builders_0702_090003.mp4"
+    },
+    {
+      "name": "instagram_slideshow_xio_tools_for_builders_0712_090632.mp4",
+      "path": "instagram_slideshow_xio_tools_for_builders_0712_090632.mp4",
+      "size": 1790213,
+      "size_mb": 1.707,
+      "sha": "b4a9b538125a990159143095cd02f31ca257c752",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_xio_tools_for_builders_0712_090632.mp4"
     },
     {
       "name": "leonardo_photoreal_0504_120655_0.jpg",
@@ -1966,6 +2070,22 @@
       "size_mb": 0.281,
       "sha": "8c64aa65c8eb47a2315f089df1b1bab7b6ed1e1e",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/leonardo_photoreal_0711_230531_0.jpg"
+    },
+    {
+      "name": "leonardo_photoreal_0713_090215_0.jpg",
+      "path": "leonardo_photoreal_0713_090215_0.jpg",
+      "size": 224279,
+      "size_mb": 0.214,
+      "sha": "e4017ec3d4add79011096cb8f02f61a3f7ee740f",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/leonardo_photoreal_0713_090215_0.jpg"
+    },
+    {
+      "name": "leonardo_photoreal_0713_090226_0.jpg",
+      "path": "leonardo_photoreal_0713_090226_0.jpg",
+      "size": 235404,
+      "size_mb": 0.224,
+      "sha": "71ba25031a07d7d40f3f36c85ec7363438737a45",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/leonardo_photoreal_0713_090226_0.jpg"
     },
     {
       "name": "market_0502_1549.png",
@@ -3904,6 +4024,14 @@
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0711_161918.mp4"
     },
     {
+      "name": "video_narrative_0713_090204.mp4",
+      "path": "video_narrative_0713_090204.mp4",
+      "size": 12449098,
+      "size_mb": 11.872,
+      "sha": "1adcefbbe368d917463ea80dd38cf257f01adf40",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_narrative_0713_090204.mp4"
+    },
+    {
       "name": "video_premium_0505_184753.mp4",
       "path": "video_premium_0505_184753.mp4",
       "size": 1227963,
@@ -3958,6 +4086,30 @@
       "size_mb": 0.191,
       "sha": "073c229afb5febb462a39d88b150197c2489ac12",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-ai-team.jpg"
+    },
+    {
+      "name": "xio-linkedin-proof-acquisition-ops-0-cover.png",
+      "path": "xio-linkedin-proof-acquisition-ops-0-cover.png",
+      "size": 503236,
+      "size_mb": 0.48,
+      "sha": "74fb6f10a56681c90c4fe076b8d839d7af2074e1",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-linkedin-proof-acquisition-ops-0-cover.png"
+    },
+    {
+      "name": "xio-linkedin-proof-acquisition-ops-0.pdf",
+      "path": "xio-linkedin-proof-acquisition-ops-0.pdf",
+      "size": 451841,
+      "size_mb": 0.431,
+      "sha": "69c3f897bb514bcac8de2d21000ca4de8ff5f920",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-linkedin-proof-acquisition-ops-0.pdf"
+    },
+    {
+      "name": "xio-reel-playbook-pilot-exception.mp4",
+      "path": "xio-reel-playbook-pilot-exception.mp4",
+      "size": 648179,
+      "size_mb": 0.618,
+      "sha": "a1f5658139f96c897231fca0573f978e6dab70ba",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-playbook-pilot-exception.mp4"
     }
   ]
 }
