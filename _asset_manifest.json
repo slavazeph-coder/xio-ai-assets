@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T09:01:06",
+  "generated_at": "2026-08-05T09:01:17",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
-  "asset_count": 517,
-  "total_size": 2466161662,
-  "total_size_mb": 2351.92,
+  "asset_count": 520,
+  "total_size": 2467307274,
+  "total_size_mb": 2353.01,
   "assets": [
     {
       "name": "README.md",
@@ -4104,6 +4104,22 @@
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-linkedin-proof-acquisition-ops-0.pdf"
     },
     {
+      "name": "xio-linkedin-proof-setup-ready-output-cover.png",
+      "path": "xio-linkedin-proof-setup-ready-output-cover.png",
+      "size": 39728,
+      "size_mb": 0.038,
+      "sha": "f0bf65c88be2d8efe28d98d4e0fca21b73418c66",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-linkedin-proof-setup-ready-output-cover.png"
+    },
+    {
+      "name": "xio-linkedin-proof-setup-ready-output.pdf",
+      "path": "xio-linkedin-proof-setup-ready-output.pdf",
+      "size": 454714,
+      "size_mb": 0.434,
+      "sha": "e07d18054692b47a0ec51eb0a619134abc6b4f65",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-linkedin-proof-setup-ready-output.pdf"
+    },
+    {
       "name": "xio-reel-playbook-pilot-exception.mp4",
       "path": "xio-reel-playbook-pilot-exception.mp4",
       "size": 648179,
@@ -4134,6 +4150,14 @@
       "size_mb": 0.626,
       "sha": "1dea0d1631d2c65d1d46ba61f02e0241fd82f368",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-proof-acq-decision-log.mp4"
+    },
+    {
+      "name": "xio-reel-proof-setup-ready-output.mp4",
+      "path": "xio-reel-proof-setup-ready-output.mp4",
+      "size": 651170,
+      "size_mb": 0.621,
+      "sha": "eb5614c7a1dd2d93ec29cef282b15de061fa9ec3",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-proof-setup-ready-output.mp4"
     },
     {
       "name": "xio-reel-source-owasp-injection.mp4",
