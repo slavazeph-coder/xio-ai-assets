@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T09:01:17",
+  "generated_at": "2026-08-06T09:01:04",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
-  "asset_count": 520,
-  "total_size": 2467307274,
-  "total_size_mb": 2353.01,
+  "asset_count": 521,
+  "total_size": 2468042793,
+  "total_size_mb": 2353.71,
   "assets": [
     {
       "name": "README.md",
@@ -4150,6 +4150,14 @@
       "size_mb": 0.626,
       "sha": "1dea0d1631d2c65d1d46ba61f02e0241fd82f368",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-proof-acq-decision-log.mp4"
+    },
+    {
+      "name": "xio-reel-proof-roofing-formats.mp4",
+      "path": "xio-reel-proof-roofing-formats.mp4",
+      "size": 735519,
+      "size_mb": 0.701,
+      "sha": "d2689011c3c07046a507aa1d3457ab20117f6702",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-proof-roofing-formats.mp4"
     },
     {
       "name": "xio-reel-proof-setup-ready-output.mp4",
