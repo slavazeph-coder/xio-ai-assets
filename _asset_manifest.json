@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T09:01:07",
+  "generated_at": "2026-08-08T09:01:50",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
-  "asset_count": 522,
-  "total_size": 2468737450,
-  "total_size_mb": 2354.37,
+  "asset_count": 523,
+  "total_size": 2469400291,
+  "total_size_mb": 2355.0,
   "assets": [
     {
       "name": "README.md",
@@ -4174,6 +4174,14 @@
       "size_mb": 0.621,
       "sha": "eb5614c7a1dd2d93ec29cef282b15de061fa9ec3",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-proof-setup-ready-output.mp4"
+    },
+    {
+      "name": "xio-reel-proof-task-plan-three.mp4",
+      "path": "xio-reel-proof-task-plan-three.mp4",
+      "size": 662841,
+      "size_mb": 0.632,
+      "sha": "717135b540153e66c1c5999983f9cdd6f5a35222",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-proof-task-plan-three.mp4"
     },
     {
       "name": "xio-reel-source-owasp-injection.mp4",
