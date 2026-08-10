@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T09:01:12",
+  "generated_at": "2026-08-10T09:01:04",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
-  "asset_count": 524,
-  "total_size": 2470100968,
-  "total_size_mb": 2355.67,
+  "asset_count": 525,
+  "total_size": 2470753051,
+  "total_size_mb": 2356.29,
   "assets": [
     {
       "name": "README.md",
@@ -4118,6 +4118,14 @@
       "size_mb": 0.434,
       "sha": "e07d18054692b47a0ec51eb0a619134abc6b4f65",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-linkedin-proof-setup-ready-output.pdf"
+    },
+    {
+      "name": "xio-reel-playbook-pilot-baseline.mp4",
+      "path": "xio-reel-playbook-pilot-baseline.mp4",
+      "size": 652083,
+      "size_mb": 0.622,
+      "sha": "0df90d535e88a1352527b567a70322e26e970fe1",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-playbook-pilot-baseline.mp4"
     },
     {
       "name": "xio-reel-playbook-pilot-exception.mp4",
