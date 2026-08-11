@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T09:01:04",
+  "generated_at": "2026-08-11T09:01:12",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
-  "asset_count": 525,
-  "total_size": 2470753051,
-  "total_size_mb": 2356.29,
+  "asset_count": 526,
+  "total_size": 2471411279,
+  "total_size_mb": 2356.92,
   "assets": [
     {
       "name": "README.md",
@@ -4142,6 +4142,14 @@
       "size_mb": 0.633,
       "sha": "2d40e8012b23529566634500b7bb6c8cf9f6d380",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-playbook-receipt-exception.mp4"
+    },
+    {
+      "name": "xio-reel-playbook-review-facts.mp4",
+      "path": "xio-reel-playbook-review-facts.mp4",
+      "size": 658228,
+      "size_mb": 0.628,
+      "sha": "c4d09e95a3e2c87abca27c3ccc39665dd268bb78",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-playbook-review-facts.mp4"
     },
     {
       "name": "xio-reel-playbook-review-uncertainty.mp4",
