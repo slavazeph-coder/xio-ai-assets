@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T09:01:30",
+  "generated_at": "2026-08-18T09:01:14",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
-  "asset_count": 528,
-  "total_size": 2472842900,
-  "total_size_mb": 2358.29,
+  "asset_count": 529,
+  "total_size": 2473497274,
+  "total_size_mb": 2358.91,
   "assets": [
     {
       "name": "README.md",
@@ -4214,6 +4214,14 @@
       "size_mb": 0.621,
       "sha": "eb5614c7a1dd2d93ec29cef282b15de061fa9ec3",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-proof-setup-ready-output.mp4"
+    },
+    {
+      "name": "xio-reel-proof-task-plan-review-note.mp4",
+      "path": "xio-reel-proof-task-plan-review-note.mp4",
+      "size": 654374,
+      "size_mb": 0.624,
+      "sha": "4aac5b47dd8a2ad2fda26b4ba52b5e3ea5de9873",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-proof-task-plan-review-note.mp4"
     },
     {
       "name": "xio-reel-proof-task-plan-three.mp4",
