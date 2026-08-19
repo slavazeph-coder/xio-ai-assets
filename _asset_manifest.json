@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T09:01:14",
+  "generated_at": "2026-08-19T09:01:29",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
-  "asset_count": 529,
-  "total_size": 2473497274,
-  "total_size_mb": 2358.91,
+  "asset_count": 532,
+  "total_size": 2474705334,
+  "total_size_mb": 2360.06,
   "assets": [
     {
       "name": "README.md",
@@ -4104,6 +4104,22 @@
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-linkedin-proof-acquisition-ops-0.pdf"
     },
     {
+      "name": "xio-linkedin-proof-private-connected-flow-cover.png",
+      "path": "xio-linkedin-proof-private-connected-flow-cover.png",
+      "size": 44303,
+      "size_mb": 0.042,
+      "sha": "e952a6c71f8bfb4bf135cd937bc829b767f54d12",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-linkedin-proof-private-connected-flow-cover.png"
+    },
+    {
+      "name": "xio-linkedin-proof-private-connected-flow.pdf",
+      "path": "xio-linkedin-proof-private-connected-flow.pdf",
+      "size": 460417,
+      "size_mb": 0.439,
+      "sha": "e7955d6bfe2fb5c52454239ec92c4e1737b42369",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-linkedin-proof-private-connected-flow.pdf"
+    },
+    {
       "name": "xio-linkedin-proof-setup-ready-output-cover.png",
       "path": "xio-linkedin-proof-setup-ready-output-cover.png",
       "size": 39728,
@@ -4182,6 +4198,14 @@
       "size_mb": 0.662,
       "sha": "cc5f14bb817c2165283caeec8433419e4e1231ae",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-proof-builder-proofops.mp4"
+    },
+    {
+      "name": "xio-reel-proof-private-connected-flow.mp4",
+      "path": "xio-reel-proof-private-connected-flow.mp4",
+      "size": 703340,
+      "size_mb": 0.671,
+      "sha": "6c60a08f147fa40c22159d26513dddc56ec903bb",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-proof-private-connected-flow.mp4"
     },
     {
       "name": "xio-reel-proof-private-knowledge.mp4",
