@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-20T09:01:14",
+  "generated_at": "2026-08-20T13:23:34",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
-  "asset_count": 533,
-  "total_size": 2475353070,
-  "total_size_mb": 2360.68,
+  "asset_count": 537,
+  "total_size": 2481514322,
+  "total_size_mb": 2366.56,
   "assets": [
     {
       "name": "README.md",
@@ -4134,6 +4134,38 @@
       "size_mb": 0.434,
       "sha": "e07d18054692b47a0ec51eb0a619134abc6b4f65",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-linkedin-proof-setup-ready-output.pdf"
+    },
+    {
+      "name": "xio-reel-math-e-curve.mp4",
+      "path": "xio-reel-math-e-curve.mp4",
+      "size": 1435666,
+      "size_mb": 1.369,
+      "sha": "f1d7e2939a17bbbb313b62921c49ded44ebbfddd",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-math-e-curve.mp4"
+    },
+    {
+      "name": "xio-reel-math-fib-spiral.mp4",
+      "path": "xio-reel-math-fib-spiral.mp4",
+      "size": 2415465,
+      "size_mb": 2.304,
+      "sha": "f94060b35ff7d15b593fb8457168faecd93a1e95",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-math-fib-spiral.mp4"
+    },
+    {
+      "name": "xio-reel-math-phi-rectangle.mp4",
+      "path": "xio-reel-math-phi-rectangle.mp4",
+      "size": 1169794,
+      "size_mb": 1.116,
+      "sha": "ea1d911cc0bc216e2f0ff3e9e601f1f3e0f8fe86",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-math-phi-rectangle.mp4"
+    },
+    {
+      "name": "xio-reel-math-pi-wheel.mp4",
+      "path": "xio-reel-math-pi-wheel.mp4",
+      "size": 1140327,
+      "size_mb": 1.088,
+      "sha": "6f3e681a5256545783b1b79a2bbcd7f6b319878d",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-math-pi-wheel.mp4"
     },
     {
       "name": "xio-reel-playbook-pilot-baseline.mp4",
