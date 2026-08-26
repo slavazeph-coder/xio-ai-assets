@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-25T09:01:22",
+  "generated_at": "2026-08-26T09:01:28",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
-  "asset_count": 542,
-  "total_size": 2484844991,
-  "total_size_mb": 2369.73,
+  "asset_count": 545,
+  "total_size": 2486092036,
+  "total_size_mb": 2370.92,
   "assets": [
     {
       "name": "README.md",
@@ -4120,6 +4120,22 @@
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-linkedin-proof-private-connected-flow.pdf"
     },
     {
+      "name": "xio-linkedin-proof-roofing-launch-approval-cover.png",
+      "path": "xio-linkedin-proof-roofing-launch-approval-cover.png",
+      "size": 41960,
+      "size_mb": 0.04,
+      "sha": "5da84ff00be2809688748ad001d6c9f1a0589f95",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-linkedin-proof-roofing-launch-approval-cover.png"
+    },
+    {
+      "name": "xio-linkedin-proof-roofing-launch-approval.pdf",
+      "path": "xio-linkedin-proof-roofing-launch-approval.pdf",
+      "size": 474358,
+      "size_mb": 0.452,
+      "sha": "1cf8f9ded25d50a0fe05f77b5549cbdbc7ecefec",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-linkedin-proof-roofing-launch-approval.pdf"
+    },
+    {
       "name": "xio-linkedin-proof-setup-ready-output-cover.png",
       "path": "xio-linkedin-proof-setup-ready-output-cover.png",
       "size": 39728,
@@ -4294,6 +4310,14 @@
       "size_mb": 0.701,
       "sha": "d2689011c3c07046a507aa1d3457ab20117f6702",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-proof-roofing-formats.mp4"
+    },
+    {
+      "name": "xio-reel-proof-roofing-launch-approval.mp4",
+      "path": "xio-reel-proof-roofing-launch-approval.mp4",
+      "size": 730727,
+      "size_mb": 0.697,
+      "sha": "35447dd6f3d5b125eed68a3c1d084148523f0b51",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-proof-roofing-launch-approval.mp4"
     },
     {
       "name": "xio-reel-proof-setup-30-day.mp4",
