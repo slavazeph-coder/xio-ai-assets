@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-29T09:01:00",
+  "generated_at": "2026-08-30T09:01:25",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
-  "asset_count": 547,
-  "total_size": 2487769778,
-  "total_size_mb": 2372.52,
+  "asset_count": 548,
+  "total_size": 2488588177,
+  "total_size_mb": 2373.3,
   "assets": [
     {
       "name": "README.md",
@@ -4206,6 +4206,14 @@
       "size_mb": 0.618,
       "sha": "fb05637d081f01c5ee1c02ced1a1abff1fced47e",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-playbook-pilot-handoff.mp4"
+    },
+    {
+      "name": "xio-reel-playbook-pilot-scale.mp4",
+      "path": "xio-reel-playbook-pilot-scale.mp4",
+      "size": 818399,
+      "size_mb": 0.78,
+      "sha": "de9150b81e6de15cb9f22a5e074fb9104c730a55",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-playbook-pilot-scale.mp4"
     },
     {
       "name": "xio-reel-playbook-receipt-exception.mp4",
