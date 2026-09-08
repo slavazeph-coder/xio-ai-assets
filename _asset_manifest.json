@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-30T09:01:25",
+  "generated_at": "2026-09-08T12:56:33",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
-  "asset_count": 548,
-  "total_size": 2488588177,
-  "total_size_mb": 2373.3,
+  "asset_count": 549,
+  "total_size": 2489468322,
+  "total_size_mb": 2374.14,
   "assets": [
     {
       "name": "README.md",
@@ -4294,6 +4294,14 @@
       "size_mb": 0.662,
       "sha": "cc5f14bb817c2165283caeec8433419e4e1231ae",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-proof-builder-proofops.mp4"
+    },
+    {
+      "name": "xio-reel-proof-private-approval.mp4",
+      "path": "xio-reel-proof-private-approval.mp4",
+      "size": 880145,
+      "size_mb": 0.839,
+      "sha": "61c4a3609994572ebf216232299e68e447b1c340",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-proof-private-approval.mp4"
     },
     {
       "name": "xio-reel-proof-private-connected-flow.mp4",
