@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-08T12:56:33",
+  "generated_at": "2026-09-09T09:01:45",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
-  "asset_count": 549,
-  "total_size": 2489468322,
-  "total_size_mb": 2374.14,
+  "asset_count": 552,
+  "total_size": 2490807985,
+  "total_size_mb": 2375.42,
   "assets": [
     {
       "name": "README.md",
@@ -4088,6 +4088,22 @@
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-ai-team.jpg"
     },
     {
+      "name": "xio-linkedin-playbook-pilot-owner-cover.png",
+      "path": "xio-linkedin-playbook-pilot-owner-cover.png",
+      "size": 51531,
+      "size_mb": 0.049,
+      "sha": "148a3822ef49e552505ebd30beda82a8ff2909c3",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-linkedin-playbook-pilot-owner-cover.png"
+    },
+    {
+      "name": "xio-linkedin-playbook-pilot-owner.pdf",
+      "path": "xio-linkedin-playbook-pilot-owner.pdf",
+      "size": 486291,
+      "size_mb": 0.464,
+      "sha": "e18aee5d7bf26f9f020ea73e61425fb9884db83e",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-linkedin-playbook-pilot-owner.pdf"
+    },
+    {
       "name": "xio-linkedin-proof-acquisition-ops-0-cover.png",
       "path": "xio-linkedin-proof-acquisition-ops-0-cover.png",
       "size": 503236,
@@ -4206,6 +4222,14 @@
       "size_mb": 0.618,
       "sha": "fb05637d081f01c5ee1c02ced1a1abff1fced47e",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-playbook-pilot-handoff.mp4"
+    },
+    {
+      "name": "xio-reel-playbook-pilot-owner.mp4",
+      "path": "xio-reel-playbook-pilot-owner.mp4",
+      "size": 801841,
+      "size_mb": 0.765,
+      "sha": "c5bfe8fa31182163f173b2a9ea694ec1ee4f404c",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-playbook-pilot-owner.mp4"
     },
     {
       "name": "xio-reel-playbook-pilot-scale.mp4",
