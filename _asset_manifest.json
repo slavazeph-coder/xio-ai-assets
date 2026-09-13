@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-10T09:01:05",
+  "generated_at": "2026-09-13T09:02:03",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
-  "asset_count": 553,
-  "total_size": 2491643438,
-  "total_size_mb": 2376.22,
+  "asset_count": 554,
+  "total_size": 2492458199,
+  "total_size_mb": 2376.99,
   "assets": [
     {
       "name": "README.md",
@@ -4294,6 +4294,14 @@
       "size_mb": 0.626,
       "sha": "1dea0d1631d2c65d1d46ba61f02e0241fd82f368",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-proof-acq-decision-log.mp4"
+    },
+    {
+      "name": "xio-reel-proof-acq-duplicate-control.mp4",
+      "path": "xio-reel-proof-acq-duplicate-control.mp4",
+      "size": 814761,
+      "size_mb": 0.777,
+      "sha": "f240f411b55451adfa21f5d910ef5c13c581cfbd",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-proof-acq-duplicate-control.mp4"
     },
     {
       "name": "xio-reel-proof-acq-outcome-learning.mp4",
