@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-14T09:01:31",
+  "generated_at": "2026-09-14T22:18:49",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
-  "asset_count": 555,
-  "total_size": 2493269951,
-  "total_size_mb": 2377.77,
+  "asset_count": 557,
+  "total_size": 2510447344,
+  "total_size_mb": 2394.15,
   "assets": [
     {
       "name": "README.md",
@@ -4446,6 +4446,22 @@
       "size_mb": 0.665,
       "sha": "3a7067f2accdc9988b3f2941d13a6f695bd1f187",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-source-owasp-injection.mp4"
+    },
+    {
+      "name": "brainsnn_house_tour_full_0914_2218.mp4",
+      "path": "brainsnn_house_tour_full_0914_2218.mp4",
+      "size": 12424061,
+      "size_mb": 11.849,
+      "sha": "5a8d96e3d85540c1fc3121715d8e422387e8fc41",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/brainsnn_house_tour_full_0914_2218.mp4"
+    },
+    {
+      "name": "brainsnn_house_concepts_reel_0914_2218.mp4",
+      "path": "brainsnn_house_concepts_reel_0914_2218.mp4",
+      "size": 4753332,
+      "size_mb": 4.533,
+      "sha": "130225c16a33e1359d68a90635da39ea2ca00edd",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/brainsnn_house_concepts_reel_0914_2218.mp4"
     }
   ]
 }
