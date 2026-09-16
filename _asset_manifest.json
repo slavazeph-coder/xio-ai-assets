@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-15T09:01:39",
+  "generated_at": "2026-09-16T09:02:06",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
-  "asset_count": 558,
-  "total_size": 2511342512,
-  "total_size_mb": 2395.0,
+  "asset_count": 562,
+  "total_size": 2515198836,
+  "total_size_mb": 2398.68,
   "assets": [
     {
       "name": "README.md",
@@ -38,6 +38,14 @@
       "size_mb": 0.104,
       "sha": "800140d4eadbd9659de7093c888393ed7a365717",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/ai-sphere.jpg"
+    },
+    {
+      "name": "brainsnn_broll_demo_reel_0915_1207.mp4",
+      "path": "brainsnn_broll_demo_reel_0915_1207.mp4",
+      "size": 2455072,
+      "size_mb": 2.341,
+      "sha": "c4ffc28ae186698f42a5625232e2bb8b36e5f18d",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/brainsnn_broll_demo_reel_0915_1207.mp4"
     },
     {
       "name": "brainsnn_house_concepts_reel_0914_2218.mp4",
@@ -4136,6 +4144,22 @@
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-linkedin-proof-acquisition-ops-0.pdf"
     },
     {
+      "name": "xio-linkedin-proof-builder-boundary-cover.png",
+      "path": "xio-linkedin-proof-builder-boundary-cover.png",
+      "size": 55242,
+      "size_mb": 0.053,
+      "sha": "16f695d64ad1c9394d9b6a3e71fac084ec3a3144",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-linkedin-proof-builder-boundary-cover.png"
+    },
+    {
+      "name": "xio-linkedin-proof-builder-boundary.pdf",
+      "path": "xio-linkedin-proof-builder-boundary.pdf",
+      "size": 517021,
+      "size_mb": 0.493,
+      "sha": "d5e55eb182cdfc0ca7fcda9e0e7fb89853a2ceff",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-linkedin-proof-builder-boundary.pdf"
+    },
+    {
       "name": "xio-linkedin-proof-private-connected-flow-cover.png",
       "path": "xio-linkedin-proof-private-connected-flow-cover.png",
       "size": 44303,
@@ -4326,6 +4350,14 @@
       "size_mb": 0.645,
       "sha": "e238dd258a5b36b8b32d330b2a30edae680c9844",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-proof-acq-outcome-learning.mp4"
+    },
+    {
+      "name": "xio-reel-proof-builder-boundary.mp4",
+      "path": "xio-reel-proof-builder-boundary.mp4",
+      "size": 828989,
+      "size_mb": 0.791,
+      "sha": "c7c42b1097c07b5ba9a4a4df6bf21c794e55bd66",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-proof-builder-boundary.mp4"
     },
     {
       "name": "xio-reel-proof-builder-compliance.mp4",
