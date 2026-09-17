@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-16T09:02:06",
+  "generated_at": "2026-09-17T09:01:26",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
-  "asset_count": 562,
-  "total_size": 2515198836,
-  "total_size_mb": 2398.68,
+  "asset_count": 565,
+  "total_size": 2535962625,
+  "total_size_mb": 2418.48,
   "assets": [
     {
       "name": "README.md",
@@ -62,6 +62,22 @@
       "size_mb": 11.849,
       "sha": "5a8d96e3d85540c1fc3121715d8e422387e8fc41",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/brainsnn_house_tour_full_0914_2218.mp4"
+    },
+    {
+      "name": "brainsnn_hq_concepts_reel_0916_1232.mp4",
+      "path": "brainsnn_hq_concepts_reel_0916_1232.mp4",
+      "size": 7883308,
+      "size_mb": 7.518,
+      "sha": "6aa30d7503ed13575389d855097d292cadccb559",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/brainsnn_hq_concepts_reel_0916_1232.mp4"
+    },
+    {
+      "name": "brainsnn_hq_house_tour_0916_1232.mp4",
+      "path": "brainsnn_hq_house_tour_0916_1232.mp4",
+      "size": 12082672,
+      "size_mb": 11.523,
+      "sha": "18ce2417a29c5eacd358e7689b81ad70074785f0",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/brainsnn_hq_house_tour_0916_1232.mp4"
     },
     {
       "name": "brand_network_21_0711_161758.png",
@@ -4464,6 +4480,14 @@
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-proof-setup-safe-stop.mp4"
     },
     {
+      "name": "xio-reel-proof-task-plan-contact.mp4",
+      "path": "xio-reel-proof-task-plan-contact.mp4",
+      "size": 797809,
+      "size_mb": 0.761,
+      "sha": "b669137cc9364927b71960d93dd23766b94b9508",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-proof-task-plan-contact.mp4"
+    },
+    {
       "name": "xio-reel-proof-task-plan-next-step.mp4",
       "path": "xio-reel-proof-task-plan-next-step.mp4",
       "size": 810221,
@@ -4502,24 +4526,6 @@
       "size_mb": 0.665,
       "sha": "3a7067f2accdc9988b3f2941d13a6f695bd1f187",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-source-owasp-injection.mp4"
-    },
-    {
-      "name": "brainsnn_hq_house_tour_0916_1232.mp4",
-      "path": "brainsnn_hq_house_tour_0916_1232.mp4",
-      "size": 12082672,
-      "size_mb": 11.523,
-      "sha256": "2439e0478c3cc87bed2896b63f61a1d2539016f25cbb801d4d39de078ce06cec",
-      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/brainsnn_hq_house_tour_0916_1232.mp4",
-      "fitness": 3.675
-    },
-    {
-      "name": "brainsnn_hq_concepts_reel_0916_1232.mp4",
-      "path": "brainsnn_hq_concepts_reel_0916_1232.mp4",
-      "size": 7883308,
-      "size_mb": 7.518,
-      "sha256": "55aea7ad580a2c368f23a3a41206be65ce4f862ef8d79a831b612edd6b6006a2",
-      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/brainsnn_hq_concepts_reel_0916_1232.mp4",
-      "fitness": 3.95
     }
   ]
 }
