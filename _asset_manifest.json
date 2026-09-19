@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-18T09:01:29",
+  "generated_at": "2026-09-19T09:01:22",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
   "asset_count": 566,
-  "total_size": 2536818038,
-  "total_size_mb": 2419.3,
+  "total_size": 2536979215,
+  "total_size_mb": 2419.45,
   "assets": [
     {
       "name": "README.md",
@@ -4266,9 +4266,9 @@
     {
       "name": "xio-reel-playbook-pilot-exception.mp4",
       "path": "xio-reel-playbook-pilot-exception.mp4",
-      "size": 648179,
-      "size_mb": 0.618,
-      "sha": "a1f5658139f96c897231fca0573f978e6dab70ba",
+      "size": 809356,
+      "size_mb": 0.772,
+      "sha": "473a35a604e38c4612ea9817119cd4f1e1829b54",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-playbook-pilot-exception.mp4"
     },
     {
