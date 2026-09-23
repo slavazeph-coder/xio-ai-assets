@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-22T09:01:18",
+  "generated_at": "2026-09-23T09:02:01",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
-  "asset_count": 566,
-  "total_size": 2537449604,
-  "total_size_mb": 2419.9,
+  "asset_count": 572,
+  "total_size": 2573162550,
+  "total_size_mb": 2453.96,
   "assets": [
     {
       "name": "README.md",
@@ -1174,6 +1174,38 @@
       "size_mb": 0.134,
       "sha": "8e59776765cb2a16bb2c3d959f816aca7eff63f0",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/comparison_0711_2305.png"
+    },
+    {
+      "name": "ep2_school_v1_0922_1759.mp4",
+      "path": "ep2_school_v1_0922_1759.mp4",
+      "size": 11267555,
+      "size_mb": 10.746,
+      "sha": "ee96a7278af5b3b16d7e016e0589d0b64cf1f0e7",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/ep2_school_v1_0922_1759.mp4"
+    },
+    {
+      "name": "epA_botshop_v4_0922_0926.mp4",
+      "path": "epA_botshop_v4_0922_0926.mp4",
+      "size": 6899206,
+      "size_mb": 6.58,
+      "sha": "d1fd2175add4c875167d9dba0f60d0e281de03b4",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/epA_botshop_v4_0922_0926.mp4"
+    },
+    {
+      "name": "epB_phonefroze_v2_0922_1248.mp4",
+      "path": "epB_phonefroze_v2_0922_1248.mp4",
+      "size": 7108223,
+      "size_mb": 6.779,
+      "sha": "8d14ed3a679ed9c8fc2d91eb9405ccdb50a890e7",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/epB_phonefroze_v2_0922_1248.mp4"
+    },
+    {
+      "name": "epK_potato_v3_0922_2026.mp4",
+      "path": "epK_potato_v3_0922_2026.mp4",
+      "size": 9754829,
+      "size_mb": 9.303,
+      "sha": "f7131579f9a3d03ecea4e0b85b03e4f197726ab3",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/epK_potato_v3_0922_2026.mp4"
     },
     {
       "name": "instagram_aurora_borealis_How_AI_is_changing_creati_7453.png",
@@ -4144,6 +4176,22 @@
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-linkedin-playbook-pilot-owner.pdf"
     },
     {
+      "name": "xio-linkedin-proof-acq-decision-log-cover.png",
+      "path": "xio-linkedin-proof-acq-decision-log-cover.png",
+      "size": 53584,
+      "size_mb": 0.051,
+      "sha": "26e77c78dde0e648f5e93ce4d9ef9387fcd3bee6",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-linkedin-proof-acq-decision-log-cover.png"
+    },
+    {
+      "name": "xio-linkedin-proof-acq-decision-log.pdf",
+      "path": "xio-linkedin-proof-acq-decision-log.pdf",
+      "size": 477719,
+      "size_mb": 0.456,
+      "sha": "684047895183f2bde8b3af3cebfcffedfae81e0e",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-linkedin-proof-acq-decision-log.pdf"
+    },
+    {
       "name": "xio-linkedin-proof-acquisition-ops-0-cover.png",
       "path": "xio-linkedin-proof-acquisition-ops-0-cover.png",
       "size": 503236,
@@ -4346,9 +4394,9 @@
     {
       "name": "xio-reel-proof-acq-decision-log.mp4",
       "path": "xio-reel-proof-acq-decision-log.mp4",
-      "size": 656640,
-      "size_mb": 0.626,
-      "sha": "1dea0d1631d2c65d1d46ba61f02e0241fd82f368",
+      "size": 808470,
+      "size_mb": 0.771,
+      "sha": "1d6acc1d5cac8be6f3a669fe2597a5b006369c02",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-proof-acq-decision-log.mp4"
     },
     {
