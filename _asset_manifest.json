@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-23T09:02:01",
+  "generated_at": "2026-09-24T09:01:21",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
-  "asset_count": 572,
-  "total_size": 2573162550,
-  "total_size_mb": 2453.96,
+  "asset_count": 579,
+  "total_size": 2615861415,
+  "total_size_mb": 2494.68,
   "assets": [
     {
       "name": "README.md",
@@ -1176,6 +1176,14 @@
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/comparison_0711_2305.png"
     },
     {
+      "name": "cover.jpg",
+      "path": "cover.jpg",
+      "size": 227311,
+      "size_mb": 0.217,
+      "sha": "70f9dfef46908f63bc936f75f60f3192b70a3ed9",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/cover.jpg"
+    },
+    {
       "name": "ep2_school_v1_0922_1759.mp4",
       "path": "ep2_school_v1_0922_1759.mp4",
       "size": 11267555,
@@ -1670,6 +1678,54 @@
       "size_mb": 1.707,
       "sha": "b4a9b538125a990159143095cd02f31ca257c752",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/instagram_slideshow_xio_tools_for_builders_0712_090632.mp4"
+    },
+    {
+      "name": "kip3d_reel_916.mp4",
+      "path": "kip3d_reel_916.mp4",
+      "size": 2429711,
+      "size_mb": 2.317,
+      "sha": "419d6fb1bd6ef1f7d8290099d771c8932c293085",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/kip3d_reel_916.mp4"
+    },
+    {
+      "name": "kip_demo_1080.mp4",
+      "path": "kip_demo_1080.mp4",
+      "size": 7039638,
+      "size_mb": 6.714,
+      "sha": "6f2b0f53c78dd5657607573a1468e22dcc52b8a5",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/kip_demo_1080.mp4"
+    },
+    {
+      "name": "kip_demo_1080_24fps.mp4",
+      "path": "kip_demo_1080_24fps.mp4",
+      "size": 7338059,
+      "size_mb": 6.998,
+      "sha": "832956510d790ef9617487d1fa2938d11e0a3025",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/kip_demo_1080_24fps.mp4"
+    },
+    {
+      "name": "kip_demo_17s_0923.mp4",
+      "path": "kip_demo_17s_0923.mp4",
+      "size": 3633629,
+      "size_mb": 3.465,
+      "sha": "89a94b325ff70bcf67394f338cd70609286296ae",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/kip_demo_17s_0923.mp4"
+    },
+    {
+      "name": "kip_demo_final.mp4",
+      "path": "kip_demo_final.mp4",
+      "size": 3633629,
+      "size_mb": 3.465,
+      "sha": "89a94b325ff70bcf67394f338cd70609286296ae",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/kip_demo_final.mp4"
+    },
+    {
+      "name": "kip_recap_vol3.mp4",
+      "path": "kip_recap_vol3.mp4",
+      "size": 18236794,
+      "size_mb": 17.392,
+      "sha": "02222b282633f15dc1076f5f1d5372ab6dcb7aeb",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/kip_recap_vol3.mp4"
     },
     {
       "name": "leonardo_photoreal_0504_120655_0.jpg",
@@ -4522,9 +4578,9 @@
     {
       "name": "xio-reel-proof-setup-ready-output.mp4",
       "path": "xio-reel-proof-setup-ready-output.mp4",
-      "size": 651170,
-      "size_mb": 0.621,
-      "sha": "eb5614c7a1dd2d93ec29cef282b15de061fa9ec3",
+      "size": 811264,
+      "size_mb": 0.774,
+      "sha": "13abb4801657d91200131699f3273260a351c17f",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-proof-setup-ready-output.mp4"
     },
     {
