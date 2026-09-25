@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-24T09:01:21",
+  "generated_at": "2026-09-25T09:01:28",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
-  "asset_count": 579,
-  "total_size": 2615861415,
-  "total_size_mb": 2494.68,
+  "asset_count": 580,
+  "total_size": 2619442303,
+  "total_size_mb": 2498.09,
   "assets": [
     {
       "name": "README.md",
@@ -38,6 +38,14 @@
       "size_mb": 0.104,
       "sha": "800140d4eadbd9659de7093c888393ed7a365717",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/ai-sphere.jpg"
+    },
+    {
+      "name": "axe_reel_916.mp4",
+      "path": "axe_reel_916.mp4",
+      "size": 3421105,
+      "size_mb": 3.263,
+      "sha": "91623d110dd844f788e6036fe5d089abff0426b6",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/axe_reel_916.mp4"
     },
     {
       "name": "brainsnn_broll_demo_reel_0915_1207.mp4",
@@ -4546,9 +4554,9 @@
     {
       "name": "xio-reel-proof-roofing-formats.mp4",
       "path": "xio-reel-proof-roofing-formats.mp4",
-      "size": 735519,
-      "size_mb": 0.701,
-      "sha": "d2689011c3c07046a507aa1d3457ab20117f6702",
+      "size": 895302,
+      "size_mb": 0.854,
+      "sha": "c5c3433fffc7b1eec1335b8a363e4fbdd5f52411",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-proof-roofing-formats.mp4"
     },
     {
