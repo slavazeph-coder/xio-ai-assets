@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-25T09:01:28",
+  "generated_at": "2026-09-26T09:01:16",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
   "asset_count": 580,
-  "total_size": 2619442303,
-  "total_size_mb": 2498.09,
+  "total_size": 2619615549,
+  "total_size_mb": 2498.26,
   "assets": [
     {
       "name": "README.md",
@@ -4506,9 +4506,9 @@
     {
       "name": "xio-reel-proof-builder-proofops.mp4",
       "path": "xio-reel-proof-builder-proofops.mp4",
-      "size": 694657,
-      "size_mb": 0.662,
-      "sha": "cc5f14bb817c2165283caeec8433419e4e1231ae",
+      "size": 867903,
+      "size_mb": 0.828,
+      "sha": "2df6c0103122e288c1e76226f2e41d898b0f61f1",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-proof-builder-proofops.mp4"
     },
     {
