@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-28T09:01:11",
+  "generated_at": "2026-09-29T09:01:18",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
   "asset_count": 580,
-  "total_size": 2619764025,
-  "total_size_mb": 2498.4,
+  "total_size": 2619892612,
+  "total_size_mb": 2498.52,
   "assets": [
     {
       "name": "README.md",
@@ -4370,9 +4370,9 @@
     {
       "name": "xio-reel-playbook-pilot-baseline.mp4",
       "path": "xio-reel-playbook-pilot-baseline.mp4",
-      "size": 652083,
-      "size_mb": 0.622,
-      "sha": "0df90d535e88a1352527b567a70322e26e970fe1",
+      "size": 780670,
+      "size_mb": 0.745,
+      "sha": "d34dec7487728bdf438537fd48b29fff2090e3e5",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-playbook-pilot-baseline.mp4"
     },
     {
