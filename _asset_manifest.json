@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-29T09:01:18",
+  "generated_at": "2026-09-30T09:01:37",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
-  "asset_count": 580,
-  "total_size": 2619892612,
-  "total_size_mb": 2498.52,
+  "asset_count": 582,
+  "total_size": 2620601825,
+  "total_size_mb": 2499.2,
   "assets": [
     {
       "name": "README.md",
@@ -4240,6 +4240,22 @@
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-linkedin-playbook-pilot-owner.pdf"
     },
     {
+      "name": "xio-linkedin-playbook-review-facts-cover.png",
+      "path": "xio-linkedin-playbook-review-facts-cover.png",
+      "size": 52464,
+      "size_mb": 0.05,
+      "sha": "f2b9f187b2b170540102840cb6fc8e3d87e2854b",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-linkedin-playbook-review-facts-cover.png"
+    },
+    {
+      "name": "xio-linkedin-playbook-review-facts.pdf",
+      "path": "xio-linkedin-playbook-review-facts.pdf",
+      "size": 502638,
+      "size_mb": 0.479,
+      "sha": "16d6c2ac40aa98632b56d25afbb013a639248efc",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-linkedin-playbook-review-facts.pdf"
+    },
+    {
       "name": "xio-linkedin-proof-acq-decision-log-cover.png",
       "path": "xio-linkedin-proof-acq-decision-log-cover.png",
       "size": 53584,
@@ -4426,9 +4442,9 @@
     {
       "name": "xio-reel-playbook-review-facts.mp4",
       "path": "xio-reel-playbook-review-facts.mp4",
-      "size": 658228,
-      "size_mb": 0.628,
-      "sha": "c4d09e95a3e2c87abca27c3ccc39665dd268bb78",
+      "size": 812339,
+      "size_mb": 0.775,
+      "sha": "85fb55ef5f72c68e77958301aa4d161bbe3fadc2",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-playbook-review-facts.mp4"
     },
     {
