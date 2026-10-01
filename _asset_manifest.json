@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-30T09:01:37",
+  "generated_at": "2026-10-01T09:01:24",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
-  "asset_count": 582,
-  "total_size": 2620601825,
-  "total_size_mb": 2499.2,
+  "asset_count": 583,
+  "total_size": 2621443440,
+  "total_size_mb": 2500.0,
   "assets": [
     {
       "name": "README.md",
@@ -4438,6 +4438,14 @@
       "size_mb": 0.629,
       "sha": "71a58906af197e633d2823361292b010a92bcd4b",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-playbook-receipt-handoff.mp4"
+    },
+    {
+      "name": "xio-reel-playbook-receipt-source.mp4",
+      "path": "xio-reel-playbook-receipt-source.mp4",
+      "size": 841615,
+      "size_mb": 0.803,
+      "sha": "259451a9176d6772becd27ff411fdba5b4fa1974",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-playbook-receipt-source.mp4"
     },
     {
       "name": "xio-reel-playbook-review-facts.mp4",
