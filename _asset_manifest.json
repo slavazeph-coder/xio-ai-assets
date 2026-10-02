@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-01T09:01:24",
+  "generated_at": "2026-10-02T09:01:19",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
-  "asset_count": 583,
-  "total_size": 2621443440,
-  "total_size_mb": 2500.0,
+  "asset_count": 584,
+  "total_size": 2622245786,
+  "total_size_mb": 2500.77,
   "assets": [
     {
       "name": "README.md",
@@ -4662,6 +4662,14 @@
       "size_mb": 0.661,
       "sha": "698881d741c87435b50c45375da45dc393aca19d",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-source-nist-genai.mp4"
+    },
+    {
+      "name": "xio-reel-source-openai-trace.mp4",
+      "path": "xio-reel-source-openai-trace.mp4",
+      "size": 802346,
+      "size_mb": 0.765,
+      "sha": "65ba8f50e0586739820278b14b312596803776a2",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-source-openai-trace.mp4"
     },
     {
       "name": "xio-reel-source-owasp-injection.mp4",
