@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-02T09:01:19",
+  "generated_at": "2026-10-03T09:01:12",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
-  "asset_count": 584,
-  "total_size": 2622245786,
-  "total_size_mb": 2500.77,
+  "asset_count": 585,
+  "total_size": 2623057063,
+  "total_size_mb": 2501.54,
   "assets": [
     {
       "name": "README.md",
@@ -4502,6 +4502,14 @@
       "size_mb": 0.645,
       "sha": "e238dd258a5b36b8b32d330b2a30edae680c9844",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-proof-acq-outcome-learning.mp4"
+    },
+    {
+      "name": "xio-reel-proof-acq-review-queue.mp4",
+      "path": "xio-reel-proof-acq-review-queue.mp4",
+      "size": 811277,
+      "size_mb": 0.774,
+      "sha": "e92d7f043761a71de544f0b49b3ca51e99bf7802",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-proof-acq-review-queue.mp4"
     },
     {
       "name": "xio-reel-proof-builder-boundary.mp4",
