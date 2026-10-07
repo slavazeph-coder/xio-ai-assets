@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-06T09:01:24",
+  "generated_at": "2026-10-07T09:01:34",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
-  "asset_count": 586,
-  "total_size": 2624170708,
-  "total_size_mb": 2502.6,
+  "asset_count": 588,
+  "total_size": 2624909237,
+  "total_size_mb": 2503.31,
   "assets": [
     {
       "name": "README.md",
@@ -4352,6 +4352,22 @@
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-linkedin-proof-setup-ready-output.pdf"
     },
     {
+      "name": "xio-linkedin-proof-task-plan-review-note-cover.png",
+      "path": "xio-linkedin-proof-task-plan-review-note-cover.png",
+      "size": 63297,
+      "size_mb": 0.06,
+      "sha": "d6b67d746f570de224c67164c31b579a8bca40b6",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-linkedin-proof-task-plan-review-note-cover.png"
+    },
+    {
+      "name": "xio-linkedin-proof-task-plan-review-note.pdf",
+      "path": "xio-linkedin-proof-task-plan-review-note.pdf",
+      "size": 517720,
+      "size_mb": 0.494,
+      "sha": "798e64d92d60849c162cdb08925760db4569aace",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-linkedin-proof-task-plan-review-note.pdf"
+    },
+    {
       "name": "xio-reel-math-e-curve.mp4",
       "path": "xio-reel-math-e-curve.mp4",
       "size": 1435666,
@@ -4658,9 +4674,9 @@
     {
       "name": "xio-reel-proof-task-plan-review-note.mp4",
       "path": "xio-reel-proof-task-plan-review-note.mp4",
-      "size": 654374,
-      "size_mb": 0.624,
-      "sha": "4aac5b47dd8a2ad2fda26b4ba52b5e3ea5de9873",
+      "size": 811886,
+      "size_mb": 0.774,
+      "sha": "17bac2fd027f89f3f8a9d718d658e5d10074ce31",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-proof-task-plan-review-note.mp4"
     },
     {
