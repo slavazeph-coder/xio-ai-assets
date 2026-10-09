@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-08T09:01:11",
+  "generated_at": "2026-10-09T09:01:14",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
   "asset_count": 588,
-  "total_size": 2624909237,
-  "total_size_mb": 2503.31,
+  "total_size": 2625067319,
+  "total_size_mb": 2503.46,
   "assets": [
     {
       "name": "README.md",
@@ -4418,9 +4418,9 @@
     {
       "name": "xio-reel-playbook-pilot-handoff.mp4",
       "path": "xio-reel-playbook-pilot-handoff.mp4",
-      "size": 647736,
-      "size_mb": 0.618,
-      "sha": "fb05637d081f01c5ee1c02ced1a1abff1fced47e",
+      "size": 805818,
+      "size_mb": 0.768,
+      "sha": "a463449aa918f67306f05234997af519afcafa99",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-playbook-pilot-handoff.mp4"
     },
     {
