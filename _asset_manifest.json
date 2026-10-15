@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-14T09:01:16",
+  "generated_at": "2026-10-15T09:01:11",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
   "asset_count": 588,
-  "total_size": 2625842967,
-  "total_size_mb": 2504.2,
+  "total_size": 2625977454,
+  "total_size_mb": 2504.33,
   "assets": [
     {
       "name": "README.md",
@@ -4610,9 +4610,9 @@
     {
       "name": "xio-reel-proof-roofing-launch-approval.mp4",
       "path": "xio-reel-proof-roofing-launch-approval.mp4",
-      "size": 730727,
-      "size_mb": 0.697,
-      "sha": "35447dd6f3d5b125eed68a3c1d084148523f0b51",
+      "size": 865214,
+      "size_mb": 0.825,
+      "sha": "ce2cdf6231d89c02ceef32a5320bf0436eef183a",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-proof-roofing-launch-approval.mp4"
     },
     {
