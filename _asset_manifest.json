@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-22T09:01:22",
+  "generated_at": "2026-10-23T09:01:27",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
-  "asset_count": 593,
-  "total_size": 2629003151,
-  "total_size_mb": 2507.21,
+  "asset_count": 594,
+  "total_size": 2629810821,
+  "total_size_mb": 2507.98,
   "assets": [
     {
       "name": "README.md",
@@ -4542,6 +4542,14 @@
       "size_mb": 0.777,
       "sha": "f240f411b55451adfa21f5d910ef5c13c581cfbd",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-proof-acq-duplicate-control.mp4"
+    },
+    {
+      "name": "xio-reel-proof-acq-human-gate.mp4",
+      "path": "xio-reel-proof-acq-human-gate.mp4",
+      "size": 807670,
+      "size_mb": 0.77,
+      "sha": "6b8a65331297561b4988b8028442f8b3a187f626",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-proof-acq-human-gate.mp4"
     },
     {
       "name": "xio-reel-proof-acq-outcome-learning.mp4",
