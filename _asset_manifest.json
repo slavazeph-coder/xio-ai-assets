@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-23T09:01:27",
+  "generated_at": "2026-10-24T09:01:20",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
-  "asset_count": 594,
-  "total_size": 2629810821,
-  "total_size_mb": 2507.98,
+  "asset_count": 595,
+  "total_size": 2630606145,
+  "total_size_mb": 2508.74,
   "assets": [
     {
       "name": "README.md",
@@ -4678,6 +4678,14 @@
       "size_mb": 0.759,
       "sha": "118d5b47293f3d26fbe0ae2b494b33da34d7c5d1",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-proof-setup-ai-step.mp4"
+    },
+    {
+      "name": "xio-reel-proof-setup-owner.mp4",
+      "path": "xio-reel-proof-setup-owner.mp4",
+      "size": 795324,
+      "size_mb": 0.758,
+      "sha": "2b0dad859ea65f66080d5dfc58dc4ba7805294f6",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-proof-setup-owner.mp4"
     },
     {
       "name": "xio-reel-proof-setup-ready-output.mp4",
