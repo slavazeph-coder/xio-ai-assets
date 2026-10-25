@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-24T09:01:20",
+  "generated_at": "2026-10-25T09:01:25",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
-  "asset_count": 595,
-  "total_size": 2630606145,
-  "total_size_mb": 2508.74,
+  "asset_count": 596,
+  "total_size": 2631505588,
+  "total_size_mb": 2509.6,
   "assets": [
     {
       "name": "README.md",
@@ -4630,6 +4630,14 @@
       "size_mb": 0.816,
       "sha": "6ac4deaa697e475be6600995a6e322bfe18467cf",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-proof-private-permission.mp4"
+    },
+    {
+      "name": "xio-reel-proof-roofing-angles.mp4",
+      "path": "xio-reel-proof-roofing-angles.mp4",
+      "size": 899443,
+      "size_mb": 0.858,
+      "sha": "b78a9ececc6e6515bfc35afa00dd4563a3513200",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-proof-roofing-angles.mp4"
     },
     {
       "name": "xio-reel-proof-roofing-caption-safe.mp4",
