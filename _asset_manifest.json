@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-27T09:01:19",
+  "generated_at": "2026-10-28T09:01:46",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
-  "asset_count": 598,
-  "total_size": 2633159598,
-  "total_size_mb": 2511.18,
+  "asset_count": 600,
+  "total_size": 2633788499,
+  "total_size_mb": 2511.78,
   "assets": [
     {
       "name": "README.md",
@@ -4318,6 +4318,22 @@
       "size_mb": 0.493,
       "sha": "d5e55eb182cdfc0ca7fcda9e0e7fb89853a2ceff",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-linkedin-proof-builder-boundary.pdf"
+    },
+    {
+      "name": "xio-linkedin-proof-private-approval-cover.png",
+      "path": "xio-linkedin-proof-private-approval-cover.png",
+      "size": 66719,
+      "size_mb": 0.064,
+      "sha": "ca2b8c995b9c967df10559e10e449607ef047269",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-linkedin-proof-private-approval-cover.png"
+    },
+    {
+      "name": "xio-linkedin-proof-private-approval.pdf",
+      "path": "xio-linkedin-proof-private-approval.pdf",
+      "size": 562182,
+      "size_mb": 0.536,
+      "sha": "e49e763b9fd38012ff8c9cfe1be8fdec2e859edb",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-linkedin-proof-private-approval.pdf"
     },
     {
       "name": "xio-linkedin-proof-private-connected-flow-cover.png",
