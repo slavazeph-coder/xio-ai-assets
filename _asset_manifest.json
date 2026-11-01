@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-31T09:01:28",
+  "generated_at": "2026-11-01T09:01:25",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
-  "asset_count": 601,
-  "total_size": 2634624028,
-  "total_size_mb": 2512.57,
+  "asset_count": 602,
+  "total_size": 2635469169,
+  "total_size_mb": 2513.38,
   "assets": [
     {
       "name": "README.md",
@@ -4790,6 +4790,14 @@
       "size_mb": 0.806,
       "sha": "d2156b67643d55bdaa45303f71789cc8e4d7d92e",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-source-nist-genai.mp4"
+    },
+    {
+      "name": "xio-reel-source-nist-loop.mp4",
+      "path": "xio-reel-source-nist-loop.mp4",
+      "size": 845141,
+      "size_mb": 0.806,
+      "sha": "475a48ebc8272ebd20bf95b8b368bfef23317cd1",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-reel-source-nist-loop.mp4"
     },
     {
       "name": "xio-reel-source-openai-trace.mp4",
