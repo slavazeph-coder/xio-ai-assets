@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-01T09:01:25",
+  "generated_at": "2026-11-02T09:01:46",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
-  "asset_count": 602,
-  "total_size": 2635469169,
-  "total_size_mb": 2513.38,
+  "asset_count": 639,
+  "total_size": 2663675139,
+  "total_size_mb": 2540.28,
   "assets": [
     {
       "name": "README.md",
@@ -1222,6 +1222,134 @@
       "size_mb": 9.303,
       "sha": "f7131579f9a3d03ecea4e0b85b03e4f197726ab3",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/epK_potato_v3_0922_2026.mp4"
+    },
+    {
+      "name": "ig01_1.png",
+      "path": "ig01_1.png",
+      "size": 1055134,
+      "size_mb": 1.006,
+      "sha": "b5b4dfb05b0f45c91f733218192a6ecd05c2b258",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/ig01_1.png"
+    },
+    {
+      "name": "ig01_2.png",
+      "path": "ig01_2.png",
+      "size": 1872017,
+      "size_mb": 1.785,
+      "sha": "1fdcc86afc9aaa7343760453258f1df14062ae6d",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/ig01_2.png"
+    },
+    {
+      "name": "ig01_3.png",
+      "path": "ig01_3.png",
+      "size": 1181467,
+      "size_mb": 1.127,
+      "sha": "aa9cf135bb96a16d1d15a7f5e47009774eecdcc2",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/ig01_3.png"
+    },
+    {
+      "name": "ig02_1.png",
+      "path": "ig02_1.png",
+      "size": 1151564,
+      "size_mb": 1.098,
+      "sha": "f6af51e12a04f09557c40cdfd050d5aa5a3404ef",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/ig02_1.png"
+    },
+    {
+      "name": "ig03_1.png",
+      "path": "ig03_1.png",
+      "size": 1340399,
+      "size_mb": 1.278,
+      "sha": "de7041fdef14f01b2229e5e9b4c17aa23a82cb5e",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/ig03_1.png"
+    },
+    {
+      "name": "ig04_1.png",
+      "path": "ig04_1.png",
+      "size": 932219,
+      "size_mb": 0.889,
+      "sha": "ef4e44d837bbd1233485c8b32df59d295ba48591",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/ig04_1.png"
+    },
+    {
+      "name": "ig04_2.png",
+      "path": "ig04_2.png",
+      "size": 528907,
+      "size_mb": 0.504,
+      "sha": "6b02ab65adc1b6ce56f74629fb99ec7e9138e670",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/ig04_2.png"
+    },
+    {
+      "name": "ig04_3.png",
+      "path": "ig04_3.png",
+      "size": 689917,
+      "size_mb": 0.658,
+      "sha": "d096ea77328b2b9a954fb02e73bcd9813f939734",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/ig04_3.png"
+    },
+    {
+      "name": "ig05_1.png",
+      "path": "ig05_1.png",
+      "size": 632527,
+      "size_mb": 0.603,
+      "sha": "8c74395a57b50346db314ec901e1361f45db1a28",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/ig05_1.png"
+    },
+    {
+      "name": "ig06_1.png",
+      "path": "ig06_1.png",
+      "size": 439394,
+      "size_mb": 0.419,
+      "sha": "980cadaac4aa9dab4c9e6133abde63c9f90f3f7f",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/ig06_1.png"
+    },
+    {
+      "name": "ig07_1.png",
+      "path": "ig07_1.png",
+      "size": 219638,
+      "size_mb": 0.209,
+      "sha": "48b62dd04b9258affdef55f4b84fc0f5f254bedd",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/ig07_1.png"
+    },
+    {
+      "name": "ig08_1.png",
+      "path": "ig08_1.png",
+      "size": 1666698,
+      "size_mb": 1.589,
+      "sha": "397ef845713ea478e0c1c7811084836a0d509bfa",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/ig08_1.png"
+    },
+    {
+      "name": "ig09_1.png",
+      "path": "ig09_1.png",
+      "size": 70620,
+      "size_mb": 0.067,
+      "sha": "f930bf94b824dc84648290d6241e76ce627cfb49",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/ig09_1.png"
+    },
+    {
+      "name": "ig10_1.png",
+      "path": "ig10_1.png",
+      "size": 2008940,
+      "size_mb": 1.916,
+      "sha": "56c56088b8c4c1a55c9011592d414e5b9603ada5",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/ig10_1.png"
+    },
+    {
+      "name": "ig10_2.png",
+      "path": "ig10_2.png",
+      "size": 215683,
+      "size_mb": 0.206,
+      "sha": "fadf3236e00ab241a5505e7819101fb8c348d096",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/ig10_2.png"
+    },
+    {
+      "name": "ig10_3.png",
+      "path": "ig10_3.png",
+      "size": 302058,
+      "size_mb": 0.288,
+      "sha": "d64dbfeb6f0e7d08340c847608872a13e3676530",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/ig10_3.png"
     },
     {
       "name": "instagram_aurora_borealis_How_AI_is_changing_creati_7453.png",
@@ -4198,6 +4326,174 @@
       "size_mb": 1.634,
       "sha": "0c5a733c97af0f2ab541bdb3e1e05cec6ba6a5c6",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/video_pro_0505_195330.mp4"
+    },
+    {
+      "name": "x01.png",
+      "path": "x01.png",
+      "size": 1005246,
+      "size_mb": 0.959,
+      "sha": "a06e31c15a2ebe9c91ef36f6b6dd63bd8d297a58",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/x01.png"
+    },
+    {
+      "name": "x02.png",
+      "path": "x02.png",
+      "size": 1067278,
+      "size_mb": 1.018,
+      "sha": "c3b2a8d71f178c6de9dc2b600929ef51cf27e380",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/x02.png"
+    },
+    {
+      "name": "x03.png",
+      "path": "x03.png",
+      "size": 463470,
+      "size_mb": 0.442,
+      "sha": "0b439c57769da1c6bd2362b7f775d60a0db0c924",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/x03.png"
+    },
+    {
+      "name": "x04.png",
+      "path": "x04.png",
+      "size": 1102601,
+      "size_mb": 1.052,
+      "sha": "c4e43926827695a6fd9b62c2090b33ee218f29c3",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/x04.png"
+    },
+    {
+      "name": "x05.png",
+      "path": "x05.png",
+      "size": 1075994,
+      "size_mb": 1.026,
+      "sha": "582acbbe26f1acc550468a34db80243a14ba7ad6",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/x05.png"
+    },
+    {
+      "name": "x06.png",
+      "path": "x06.png",
+      "size": 348980,
+      "size_mb": 0.333,
+      "sha": "16cc700ea238e41c49abc46197282cd486869034",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/x06.png"
+    },
+    {
+      "name": "x07.png",
+      "path": "x07.png",
+      "size": 205066,
+      "size_mb": 0.196,
+      "sha": "f671068dab71f717a9c5fa71c40945f6074668ea",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/x07.png"
+    },
+    {
+      "name": "x08.png",
+      "path": "x08.png",
+      "size": 747376,
+      "size_mb": 0.713,
+      "sha": "e9dc2104591b723cb3d758556849b08ab41cf3cd",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/x08.png"
+    },
+    {
+      "name": "x09.png",
+      "path": "x09.png",
+      "size": 1376519,
+      "size_mb": 1.313,
+      "sha": "248a72992edd3ad65def3588a6f36d733b0d64d4",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/x09.png"
+    },
+    {
+      "name": "x10.png",
+      "path": "x10.png",
+      "size": 202472,
+      "size_mb": 0.193,
+      "sha": "765f8b364f88ec458fb404e42949816f47feed1f",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/x10.png"
+    },
+    {
+      "name": "x11.png",
+      "path": "x11.png",
+      "size": 195604,
+      "size_mb": 0.187,
+      "sha": "f54a65d7fbb58c2e37898724722740fc117a69e6",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/x11.png"
+    },
+    {
+      "name": "x12.png",
+      "path": "x12.png",
+      "size": 1187363,
+      "size_mb": 1.132,
+      "sha": "cc5f0a4ab52ef4e9f80f9dca7f3a84e939500013",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/x12.png"
+    },
+    {
+      "name": "x13.png",
+      "path": "x13.png",
+      "size": 58344,
+      "size_mb": 0.056,
+      "sha": "9f334be6fa4ec14bbcbb6ab8a9d7e5eed3aecd1d",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/x13.png"
+    },
+    {
+      "name": "x14.png",
+      "path": "x14.png",
+      "size": 294255,
+      "size_mb": 0.281,
+      "sha": "08ddb1a08d31b0d9705671d2e8d900a9346d40e1",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/x14.png"
+    },
+    {
+      "name": "x15.png",
+      "path": "x15.png",
+      "size": 1012930,
+      "size_mb": 0.966,
+      "sha": "dce7df98b580690e22a52608b12a763287a90498",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/x15.png"
+    },
+    {
+      "name": "x16.png",
+      "path": "x16.png",
+      "size": 244300,
+      "size_mb": 0.233,
+      "sha": "d9251a570adb9f1031052b2759036f9e3a083cdb",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/x16.png"
+    },
+    {
+      "name": "x17.png",
+      "path": "x17.png",
+      "size": 352520,
+      "size_mb": 0.336,
+      "sha": "feb06b74454a2365d7a33bac3f69889fcffde96b",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/x17.png"
+    },
+    {
+      "name": "x18.png",
+      "path": "x18.png",
+      "size": 1282156,
+      "size_mb": 1.223,
+      "sha": "d0296f17509694abd0dd3e2391101c3cd98ffa83",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/x18.png"
+    },
+    {
+      "name": "x19.png",
+      "path": "x19.png",
+      "size": 1179923,
+      "size_mb": 1.125,
+      "sha": "8169d543fe771898f78640c7a0be9bb4c8788b1a",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/x19.png"
+    },
+    {
+      "name": "x20.png",
+      "path": "x20.png",
+      "size": 202080,
+      "size_mb": 0.193,
+      "sha": "769436b34db9828f4d82bab02f5435635e77eef8",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/x20.png"
+    },
+    {
+      "name": "x21.png",
+      "path": "x21.png",
+      "size": 294311,
+      "size_mb": 0.281,
+      "sha": "e8e78cd625de5d57053b91508a60cc919a090e1a",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/x21.png"
     },
     {
       "name": "xio-ai-city.jpg",
