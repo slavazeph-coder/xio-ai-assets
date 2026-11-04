@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-03T09:01:22",
+  "generated_at": "2026-11-04T09:01:52",
   "repo": "slavazeph-coder/xio-ai-assets",
   "branch": "main",
   "remote_dir": "",
-  "asset_count": 639,
-  "total_size": 2663675139,
-  "total_size_mb": 2540.28,
+  "asset_count": 641,
+  "total_size": 2664275699,
+  "total_size_mb": 2540.85,
   "assets": [
     {
       "name": "README.md",
@@ -4662,6 +4662,22 @@
       "size_mb": 0.452,
       "sha": "1cf8f9ded25d50a0fe05f77b5549cbdbc7ecefec",
       "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-linkedin-proof-roofing-launch-approval.pdf"
+    },
+    {
+      "name": "xio-linkedin-proof-roofing-no-guarantee-cover.png",
+      "path": "xio-linkedin-proof-roofing-no-guarantee-cover.png",
+      "size": 60760,
+      "size_mb": 0.058,
+      "sha": "de395d09c1fe1a1dd301bb59629c89e2d96bd8dd",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-linkedin-proof-roofing-no-guarantee-cover.png"
+    },
+    {
+      "name": "xio-linkedin-proof-roofing-no-guarantee.pdf",
+      "path": "xio-linkedin-proof-roofing-no-guarantee.pdf",
+      "size": 539800,
+      "size_mb": 0.515,
+      "sha": "0e5e68b41d3fce03be38ce263a52f2113e3ff7f7",
+      "raw_url": "https://raw.githubusercontent.com/slavazeph-coder/xio-ai-assets/main/xio-linkedin-proof-roofing-no-guarantee.pdf"
     },
     {
       "name": "xio-linkedin-proof-setup-ready-output-cover.png",
